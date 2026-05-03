@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777772400 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777796580 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 May 2026 01:40 UTC
-; Version: 2026.0503.0140.15
+; Last modified: 03 May 2026 08:23 UTC
+; Version: 2026.0503.0823.47
 ; Syntax: RPZ
-; Number of entries: 19938
+; Number of entries: 19930
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -4099,8 +4099,6 @@ directedurls.com CNAME .
 *.directedurls.com CNAME .
 link.dith2.com CNAME .
 *.link.dith2.com CNAME .
-diversionink.com CNAME .
-*.diversionink.com CNAME .
 divsly.com CNAME .
 *.divsly.com CNAME .
 diypriceless.com CNAME .
@@ -4139,8 +4137,6 @@ downloadtonic.com CNAME .
 *.downloadtonic.com CNAME .
 dpba2404.com CNAME .
 *.dpba2404.com CNAME .
-dpessm.com CNAME .
-*.dpessm.com CNAME .
 dripurl.com CNAME .
 *.dripurl.com CNAME .
 go.drnima.com CNAME .
@@ -10359,8 +10355,6 @@ cookcenter.info CNAME .
 *.cookcenter.info CNAME .
 cqma.info CNAME .
 *.cqma.info CNAME .
-dl-protect.info CNAME .
-*.dl-protect.info CNAME .
 dwro.info CNAME .
 *.dwro.info CNAME .
 earthtoday.info CNAME .
@@ -16529,8 +16523,6 @@ adv.pe CNAME .
 *.adv.pe CNAME .
 cut.pe CNAME .
 *.cut.pe CNAME .
-qr.democame.pe CNAME .
-*.qr.democame.pe CNAME .
 eu.pe CNAME .
 *.eu.pe CNAME .
 kr.pe CNAME .

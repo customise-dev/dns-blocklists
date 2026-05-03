@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 May 2026 03:25 UTC
-# Version: 2026.0503.0325.24
+# Last modified: 03 May 2026 10:06 UTC
+# Version: 2026.0503.1006.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 12435
+# Number of entries: 12428
 #
 local=/003396815.xyz/
 local=/004430.xyz/
@@ -2418,7 +2418,6 @@ local=/cpasbien.io/
 local=/cpasbien.me/
 local=/cpasbien.pe/
 local=/cpasbien.site/
-local=/cpasbien.to/
 local=/cpasbien-torrent.biz/
 local=/cpasbien-torrents.fr/
 local=/cpasbien3.pro/
@@ -2504,7 +2503,6 @@ local=/crichd.at/
 local=/crichd.bar/
 local=/crichd.buzz/
 local=/crichd.com/
-local=/crichd.cyou/
 local=/crichd.guru/
 local=/crichd.info/
 local=/crichd.io/
@@ -2549,13 +2547,11 @@ local=/cross.moe/
 local=/crosstowntorrents.org/
 local=/crotorrents.com/
 local=/crownbit.cc/
-local=/crsky.net/
 local=/packages.crunchbangplusplus.org/
 local=/cruscros.me/
 local=/tpb.crushus.com/
 local=/cruzing.xyz/
 local=/tracker.cryptichaven.org/
-local=/crystal-warez.in/
 local=/crytal58ue.com/
 local=/uhdmovies.cs.in/
 local=/cspan.com/
@@ -2972,7 +2968,6 @@ local=/dood.host/
 local=/dood.ink/
 local=/dood.la/
 local=/dood.li/
-local=/dood.live/
 local=/dood.lol/
 local=/dood.lt/
 local=/dood.ltd/
@@ -3043,7 +3038,6 @@ local=/tr.doogh.club/
 local=/dooodster.com/
 local=/dooood.com/
 local=/doopes.com/
-local=/dopebox.cc/
 local=/dopebox.net/
 local=/dopebox.to/
 local=/doperoms.com/
@@ -3082,7 +3076,6 @@ local=/downloadportal.dk/
 local=/downloadpost.com/
 local=/downloads.ws/
 local=/downloads-anymovies.co/
-local=/downloads-anymovies.com/
 local=/downloadsoftwarez.net/
 local=/downloadspace.org/
 local=/downloadteam.org/

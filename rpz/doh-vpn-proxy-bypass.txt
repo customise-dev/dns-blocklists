@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777779120 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777803240 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 May 2026 03:32 UTC
-; Version: 2026.0503.0332.20
+; Last modified: 03 May 2026 10:14 UTC
+; Version: 2026.0503.1014.03
 ; Syntax: RPZ
-; Number of entries: 38018
+; Number of entries: 37994
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -6699,8 +6699,6 @@ coverproxy.com CNAME .
 *.coverproxy.com CNAME .
 covertheorange.com CNAME .
 *.covertheorange.com CNAME .
-covertproxy.com CNAME .
-*.covertproxy.com CNAME .
 104-36-85-232.cprapid.com CNAME .
 *.104-36-85-232.cprapid.com CNAME .
 cqoskrvd.com CNAME .
@@ -7027,8 +7025,6 @@ doh.denypradana.com CNAME .
 *.doh.denypradana.com CNAME .
 departlamb.com CNAME .
 *.departlamb.com CNAME .
-departsettle.com CNAME .
-*.departsettle.com CNAME .
 deproxyserver.com CNAME .
 *.deproxyserver.com CNAME .
 despair.desarrollos-lowcost.com CNAME .
@@ -7063,8 +7059,6 @@ dicebolsa.com CNAME .
 *.dicebolsa.com CNAME .
 dicefan.com CNAME .
 *.dicefan.com CNAME .
-adguard.dientutronghuong.com CNAME .
-*.adguard.dientutronghuong.com CNAME .
 digibitdesign.com CNAME .
 *.digibitdesign.com CNAME .
 atom.world.digitalhemi.com CNAME .
@@ -7113,8 +7107,6 @@ dinuxcloud.com CNAME .
 *.dinuxcloud.com CNAME .
 dns.dionperera.com CNAME .
 *.dns.dionperera.com CNAME .
-dirtyworkproxy.com CNAME .
-*.dirtyworkproxy.com CNAME .
 dns-telkominfra.disacloud.com CNAME .
 *.dns-telkominfra.disacloud.com CNAME .
 disbish.com CNAME .
@@ -7487,8 +7479,6 @@ dowhitewhale.com CNAME .
 *.dowhitewhale.com CNAME .
 downloads-kl.com CNAME .
 *.downloads-kl.com CNAME .
-downloads-klvpn.com CNAME .
-*.downloads-klvpn.com CNAME .
 downloads-kuailian.com CNAME .
 *.downloads-kuailian.com CNAME .
 downloads-lets.com CNAME .
@@ -23155,8 +23145,6 @@ blahaj.li CNAME .
 *.blahaj.li CNAME .
 nas.delage.li CNAME .
 *.nas.delage.li CNAME .
-hi-kyler.developer.li CNAME .
-*.hi-kyler.developer.li CNAME .
 nirbytesp.developer.li CNAME .
 *.nirbytesp.developer.li CNAME .
 nirdogepx.developer.li CNAME .
@@ -23235,8 +23223,6 @@ dns.chattalk.link CNAME .
 *.dns.chattalk.link CNAME .
 powervpn.dlab.link CNAME .
 *.powervpn.dlab.link CNAME .
-dns-free.link CNAME .
-*.dns-free.link CNAME .
 eth.link CNAME .
 *.eth.link CNAME .
 freeconnect.link CNAME .
@@ -30185,10 +30171,6 @@ dns.colorfreedom.org CNAME .
 *.dns.colorfreedom.org CNAME .
 cookshowroom.org CNAME .
 *.cookshowroom.org CNAME .
-rammerhead.crackerstreams.org CNAME .
-*.rammerhead.crackerstreams.org CNAME .
-crazyproxy.org CNAME .
-*.crazyproxy.org CNAME .
 creationlong.org CNAME .
 *.creationlong.org CNAME .
 creativefish.org CNAME .
@@ -34547,8 +34529,6 @@ cosmohacker.space CNAME .
 *.cosmohacker.space CNAME .
 crunchymunchy.space CNAME .
 *.crunchymunchy.space CNAME .
-cryptd.space CNAME .
-*.cryptd.space CNAME .
 demonzero.space CNAME .
 *.demonzero.space CNAME .
 edgeaccelerator.space CNAME .
@@ -36691,8 +36671,6 @@ dns.busold.ws CNAME .
 *.dns.busold.ws CNAME .
 helios-browser.ct.ws CNAME .
 *.helios-browser.ct.ws CNAME .
-app.plugga-matte.ct.ws CNAME .
-*.app.plugga-matte.ct.ws CNAME .
 grimace-shake.skibidi-rizz-gyatt-fanum-tax-sigma-ohio.ct.ws CNAME .
 *.grimace-shake.skibidi-rizz-gyatt-fanum-tax-sigma-ohio.ct.ws CNAME .
 67.langhorne.ws CNAME .
@@ -36723,8 +36701,6 @@ bpn.wtf CNAME .
 *.bpn.wtf CNAME .
 bypassed.wtf CNAME .
 *.bypassed.wtf CNAME .
-darknovafern123amazonaws.ddns.wtf CNAME .
-*.darknovafern123amazonaws.ddns.wtf CNAME .
 eazy.wtf CNAME .
 *.eazy.wtf CNAME .
 proxy.facil.wtf CNAME .

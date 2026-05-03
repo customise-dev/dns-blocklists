@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 May 2026 03:32 UTC
-# Version: 2026.0503.0332.20
+# Last modified: 03 May 2026 10:14 UTC
+# Version: 2026.0503.1014.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 19009
+# Number of entries: 18997
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -4422,7 +4422,6 @@ local=/bran.covalpo.cl/
 local=/covering.run/
 local=/coverproxy.com/
 local=/covertheorange.com/
-local=/covertproxy.com/
 local=/covpn.mom/
 local=/covwskpb.cc/
 local=/doh.cox.net/
@@ -4468,7 +4467,6 @@ local=/sixseven6swan.crabdance.com/
 local=/timfplhtaw.crabdance.com/
 local=/yourname.chosen-domain.tld.crabdance.com/
 local=/utopiaunblocker.crabdance.com/
-local=/rammerhead.crackerstreams.org/
 local=/clever.com.santi.craftleds.com/
 local=/history.grade.cranbury.info/
 local=/crash1ytics.com/
@@ -4477,7 +4475,6 @@ local=/crawlbase.com/
 local=/crawler.mobi/
 local=/crazycattle3d.lol/
 local=/crazyfastrace.lol/
-local=/crazyproxy.org/
 local=/crazysurfer.info/
 local=/crbtqxdu.com/
 local=/createssh.net/
@@ -4524,7 +4521,6 @@ local=/crushus.com/
 local=/cryoutdome.cryodome.com/
 local=/bx3.cdn.gh-pages.cryodome.com/
 local=/googla.cryodome.com/
-local=/cryptd.space/
 local=/crypticvpn.com/
 local=/crypto.sx/
 local=/crypto-college.cc/
@@ -4553,7 +4549,6 @@ local=/teaching944.cspcorp.com/
 local=/duck.csproject.org/
 local=/dns.csswg.org/
 local=/helios-browser.ct.ws/
-local=/app.plugga-matte.ct.ws/
 local=/grimace-shake.skibidi-rizz-gyatt-fanum-tax-sigma-ohio.ct.ws/
 local=/ct-access.pro/
 local=/ct-vpn.com/
@@ -4764,7 +4759,6 @@ local=/batshitcrazy.ddns.net/
 local=/adguard.bug3factory.ddns.net/
 local=/cloak.ddns.net/
 local=/cloudflares.ddns.net/
-local=/darknovafern123amazonaws.ddns.wtf/
 local=/djtesok.ddns.net/
 local=/dnsresolver02.ddns.net/
 local=/dnsvs.ddns.net/
@@ -4892,7 +4886,6 @@ local=/level.how.denizbuklet.com/
 local=/denstro.ru/
 local=/doh.denypradana.com/
 local=/departlamb.com/
-local=/departsettle.com/
 local=/adguard.depieri.net/
 local=/deproxyserver.com/
 local=/deqyutix.online/
@@ -4913,7 +4906,6 @@ local=/adguard.dessoi.cloud/
 local=/doh-primary-pool.detoxifypornblocker.com/
 local=/dev-ngrok.com/
 local=/dns.dev-umbrellagov.com/
-local=/hi-kyler.developer.li/
 local=/nirbytesp.developer.li/
 local=/nirdogepx.developer.li/
 local=/sinckfladogenirb.developer.li/
@@ -4945,7 +4937,6 @@ local=/dicefan.com/
 local=/dichvusocks.net/
 local=/touching.diddy.men/
 local=/xn--28j2a3ar1p.died.pw/
-local=/adguard.dientutronghuong.com/
 local=/difficultycrossing.org/
 local=/digibitdesign.com/
 local=/anonymizing-proxy.digitalcourage.de/
@@ -5003,7 +4994,6 @@ local=/dinuxcloud.com/
 local=/dns.dionperera.com/
 local=/directconnect.fyi/
 local=/directoryproxy.info/
-local=/dirtyworkproxy.com/
 local=/dns-telkominfra.disacloud.com/
 local=/disbish.com/
 local=/disconnect.me/
@@ -5072,7 +5062,6 @@ local=/dns.dns-53.us/
 local=/mikrobill.dns-cloud.net/
 local=/aseproxy.aselock.dns-dynamic.net/
 local=/proariel.dns-dynamic.net/
-local=/dns-free.link/
 local=/dns.dns-heimdall.com/
 local=/dns.dns-over-https.com/
 local=/i.dns-over-https.tk/
@@ -5353,7 +5342,6 @@ local=/dowindows.net/
 local=/downloadhiro.app/
 local=/downloadqq.xyz/
 local=/downloads-kl.com/
-local=/downloads-klvpn.com/
 local=/downloads-kuailian.com/
 local=/downloads-lets.com/
 local=/downloads-letsvpn.com/

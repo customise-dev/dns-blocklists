@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 May 2026 16:56 UTC
-! Version: 2026.0502.1656.35
+! Last modified: 03 May 2026 10:13 UTC
+! Version: 2026.0503.1013.49
 ! Syntax: AdBlock
-! Number of entries: 3415
+! Number of entries: 3412
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -705,7 +705,6 @@
 ||adguard.crestfallen.de^
 ||cristianocosta.me^
 ||dns.itsec.crolla.net^
-||cryptd.space^
 ||crypto.sx^
 ||crypto2049.store^
 ||dns.cryptomize.com^
@@ -849,7 +848,6 @@
 ||dns.dhemant.observer^
 ||dns.isp.dhoho.net^
 ||dns.diarbagus.id^
-||adguard.dientutronghuong.com^
 ||digitale-gesellschaft.ch^
 ||digitallink.be^
 ||dns.digitalsize.net^
@@ -880,7 +878,6 @@
 ||dns.dns-53.us^
 ||mikrobill.dns-cloud.net^
 ||proariel.dns-dynamic.net^
-||dns-free.link^
 ||dns.dns-heimdall.com^
 ||dns.dns-over-https.com^
 ||i.dns-over-https.tk^

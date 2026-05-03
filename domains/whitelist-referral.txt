@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 May 2026 01:23 UTC
-# Version: 2026.0503.0123.11
+# Last modified: 03 May 2026 08:04 UTC
+# Version: 2026.0503.0804.14
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2150
+# Number of entries: 2151
 #
 1-aclk.net
 1aurl.io
@@ -476,7 +476,6 @@ k.cocooncenter.com
 aax-eu.amazon.com.be
 aax-eu.amazon.com.tr
 aax-fe.amazon.com.au
-fff.com.vn
 adservice.google.com.ar
 adservice.google.com.au
 adservice.google.com.bd
@@ -612,6 +611,7 @@ click.convertkit-mail4.com
 d3b9d64f.click.convertkit-mail4.com
 e4c5c2ea.click.convertkit-mail4.com
 ff2daa42.click.convertkit-mail4.com
+ff42b03a.click.convertkit-mail4.com
 el2.convertkit-mail4.com
 open.convertkit-mail4.com
 021ccec7.open.convertkit-mail4.com
@@ -651,6 +651,7 @@ f5da5543.open.convertkit-mail4.com
 fc541894.open.convertkit-mail4.com
 fe05b0e9.open.convertkit-mail4.com
 ff2daa42.open.convertkit-mail4.com
+ff42b03a.open.convertkit-mail4.com
 preferences.convertkit-mail4.com
 preview.convertkit-mail4.com
 unsubscribe.convertkit-mail4.com

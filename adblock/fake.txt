@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 May 2026 01:38 UTC
-! Version: 2026.0503.0138.18
+! Last modified: 03 May 2026 08:21 UTC
+! Version: 2026.0503.0821.32
 ! Syntax: AdBlock
-! Number of entries: 14404
+! Number of entries: 14377
 !
 ||01broker.com^
 ||01crypto.com^
@@ -2602,7 +2602,6 @@
 ||coursados.com^
 ||courtesya.com^
 ||courtyardlive.com^
-||covadea-tech.de^
 ||coverfrot.com^
 ||coveshe.com^
 ||coviviocapital.com^
@@ -2670,7 +2669,6 @@
 ||cryptos-investing.com^
 ||cryptoschutz24.de^
 ||cryptosmarket.com^
-||cryptosone.com^
 ||cryptotrader.app^
 ||cryptoweb3pro.com^
 ||cryptrade-franchise.com^
@@ -2704,7 +2702,6 @@
 ||curosleep.com^
 ||curotoshop.com^
 ||currext.com^
-||curriculumt.com^
 ||curtainguess.com^
 ||curvedream.de^
 ||cusb4.com^
@@ -2722,7 +2719,6 @@
 ||cwl-experts.org^
 ||cxzy.de^
 ||cyberearth.org^
-||cyberfoxy.store^
 ||cycasturkey.com^
 ||cycle100percent.com^
 ||cycleexplorer.com^
@@ -2730,15 +2726,12 @@
 ||cycling100percent.com^
 ||cyclingjacketneus.com^
 ||cyclingmavic.com^
-||cyclingprostore.com^
 ||cyclingraincoatde.com^
 ||cyclingzx.com^
 ||cydertlinder.com^
 ||cyjumay.shop^
 ||cymgrup.com^
-||cyno-sainti.ch^
 ||cyrosalnix.com^
-||cz-kamagra.com^
 ||cz-lekarna.com^
 ||cz-parts.de^
 ||cz-parts.eu^
@@ -2757,14 +2750,12 @@
 ||daddeln.net^
 ||m.daefox.com^
 ||pc.daefox.com^
-||dafloxx.de^
 ||dagewan.com^
 ||dagle.de^
 ||daheim-gut.ch^
 ||daheimgut.ch^
 ||dailog.de^
 ||daily-jewelry123.com^
-||daily-option.com^
 ||dailygermanshop.com^
 ||dailyjoy.shop^
 ||dailylifeyouth.de^
@@ -2778,7 +2769,6 @@
 ||damenmode-quelle.de^
 ||damenmodetradition.com^
 ||damenstylerabatt.com^
-||damenuhrenringe.com^
 ||dammerlicht.de^
 ||dampfshishahub.com^
 ||dampfzentrale.com^
@@ -2872,7 +2862,6 @@
 ||pusheen.de-imex.de^
 ||de-lumelia.com^
 ||de-musicshop.com^
-||de-napoleon.com^
 ||de-orion.site^
 ||mein.lhk.de-plushilfe.com^
 ||de-rimowa.shop^
@@ -2885,7 +2874,6 @@
 ||deaddictedtohandbagsapp.com^
 ||deairecru.com^
 ||deal-aktion.de^
-||dealballad.com^
 ||dealfundus.de^
 ||dealira.com^
 ||dealmanias.com^
@@ -2900,7 +2888,6 @@
 ||debasketball.com^
 ||debergercamping.com^
 ||deboutiqueshop.com^
-||debutlersrabatt.com^
 ||decantersale.com^
 ||decarba-mann.de^
 ||decardport.com^
@@ -2927,7 +2914,6 @@
 ||defahrrad.com^
 ||defahrradkomponenten.com^
 ||defahrradzubehor.com^
-||defai-tech.de^
 ||definitelye.com^
 ||defischersport.com^
 ||deftcrafts.com^
@@ -2962,10 +2948,7 @@
 ||dehaustierbedarf.com^
 ||deheimtierbedarf.com^
 ||dehiking.de^
-||dehiretalent.com^
 ||dehnerverkauf.de^
-||agebob.dehorse.shop^
-||cccup.dehorse.shop^
 ||dehundeeinkauf.com^
 ||dehundegeschaft.com^
 ||deichmannoutlet.shop^
@@ -2974,7 +2957,6 @@
 ||dein-elektroshop.de^
 ||dein-modehaus.de^
 ||dein-rundfunkbeitrag.de^
-||dein-schuhheld.com^
 ||dein-sicheres-bad.de^
 ||deinbikeprofi.de^
 ||deinegartenprofis.de^
@@ -2997,7 +2979,6 @@
 ||dekoration-store.com^
 ||dekorations-o-grod.de^
 ||dekorationsmeister.com^
-||dekorativeholzprodukte.com^
 ||dekotext.com^
 ||del.de^
 ||delebensmittel.com^
@@ -3037,7 +3018,6 @@
 ||den-home.com^
 ||denaturkosmetik.com^
 ||dennisbecker-ra.de^
-||dentrotecdeeu.shop^
 ||deonline-boutique.com^
 ||depanten-gel.site^
 ||deparcart.com^
@@ -3068,7 +3048,6 @@
 ||dertagesspiegel.com^
 ||derumzugshelfer.at^
 ||desamishop.com^
-||descatio.com^
 ||descendank.com^
 ||deschuhebillig.com^
 ||descontom.com^
@@ -3109,10 +3088,10 @@
 ||deutsch-markt.com^
 ||deutschapotheke.com^
 ||deutsche-backwaren-manufaktur.com^
-||deutsche-fahrrader.com^
 ||deutsche-rentenauskunft.de^
 ||deutsche-wurst-manufaktur.com^
 ||deutschechic.de^
+||deutschegadgetmarkt.de^
 ||deutschegrammophoneu-outlets.shop^
 ||deutscher-invest-markt.de^
 ||deutschersammlerschatz.com^
@@ -3135,7 +3114,6 @@
 ||devicesair.com^
 ||devoteonese.com^
 ||deweins.com^
-||dewello-shop.de^
 ||dewohntraum.com^
 ||dexer-handel.de^
 ||dexoraoutlet.com^
@@ -3208,7 +3186,6 @@
 ||directzs.com^
 ||direktbericht.de^
 ||direktbike.store^
-||direkte-verarbeitung.site^
 ||dirkuhren.de^
 ||dirndlzeit.de^
 ||disciplineh.com^
@@ -3256,12 +3233,10 @@
 ||dkcoindey.com^
 ||dlandtechnik.com^
 ||dliene.com^
-||dly-home.com^
 ||dmbmanagement.de^
 ||dmlhrhnv.shop^
 ||dmrbremsbelag.com^
 ||dmsmax.com^
-||dnaen.shop^
 ||docjohnson-schritte.com^
 ||doctorsolve.com^
 ||doctriney.com^
@@ -3273,7 +3248,6 @@
 ||dograndoo.de^
 ||dogs-food.shop^
 ||dogsdreamaustria.at^
-||dogsmopolitanshopeu.shop^
 ||dogzy.de^
 ||dohahotel24.com^
 ||dokumentenkaufen.eu^
@@ -3347,7 +3321,6 @@
 ||drehfutterverkauf.com^
 ||dresdem.com^
 ||dresdenmodehaus.de^
-||dresdnererlebniswelteu.shop^
 ||dressfat.com^
 ||dressshirtsblouses.com^
 ||dresswithsoul.com^
@@ -3355,7 +3328,6 @@
 ||drgillmaier.de^
 ||drheimer.com^
 ||drink-horizon.com^
-||drinkevolution.shop^
 ||drinkrelaxo.com^
 ||drinkwineshop.com^
 ||drivegoodwheels.com^
@@ -13337,6 +13309,7 @@
 ||vasaglede.com^
 ||vaschoen.com^
 ||vasile24.de^
+||vasmoebel.de^
 ||vasons.de^
 ||vassias.com^
 ||vassv.com^

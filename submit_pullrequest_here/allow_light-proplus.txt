@@ -1,5 +1,8 @@
 # Unblocking for relaxed, balanced and aggressive (pro++) lists only
 
+# https://github.com/hagezi/dns-blocklists/issues/10064
+canadiantire.tt.omtrdc.net
+
 # https://github.com/hagezi/dns-blocklists/issues/9996
 termsfeed.com
 

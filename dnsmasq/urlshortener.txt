@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 May 2026 01:40 UTC
-# Version: 2026.0503.0140.15
+# Last modified: 03 May 2026 08:23 UTC
+# Version: 2026.0503.0823.47
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9969
+# Number of entries: 9965
 #
 local=/0.gp/
 local=/00m.in/
@@ -2191,7 +2191,6 @@ local=/delphin.link/
 local=/delta.live/
 local=/demcon24.com/
 local=/asset.deme-group.com/
-local=/qr.democame.pe/
 local=/demolink.net/
 local=/dems.me/
 local=/depedzn.net/
@@ -2261,7 +2260,6 @@ local=/disini.link/
 local=/disq.us/
 local=/link.dith2.com/
 local=/dive.pub/
-local=/diversionink.com/
 local=/divsly.com/
 local=/diwi.io/
 local=/diypriceless.com/
@@ -2273,7 +2271,6 @@ local=/djurl.com/
 local=/dkng.co/
 local=/dky.bz/
 local=/dl.gl/
-local=/dl-protect.info/
 local=/dl-protect.link/
 local=/dl100.cc/
 local=/dlik.ch/
@@ -2332,7 +2329,6 @@ local=/ppt.dpanda.in/
 local=/dpb.fm/
 local=/dpb.link/
 local=/dpba2404.com/
-local=/dpessm.com/
 local=/dpmd.ai/
 local=/dpo.st/
 local=/dprox.co/

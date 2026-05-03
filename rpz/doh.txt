@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777779060 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777803180 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 May 2026 03:31 UTC
-; Version: 2026.0503.0331.36
+; Last modified: 03 May 2026 10:13 UTC
+; Version: 2026.0503.1013.17
 ; Syntax: RPZ
-; Number of entries: 6938
+; Number of entries: 6932
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -933,8 +933,6 @@ doh-primary-pool.detoxifypornblocker.com CNAME .
 *.doh-primary-pool.detoxifypornblocker.com CNAME .
 dns.dev-umbrellagov.com CNAME .
 *.dns.dev-umbrellagov.com CNAME .
-adguard.dientutronghuong.com CNAME .
-*.adguard.dientutronghuong.com CNAME .
 dns.dimantus.com CNAME .
 *.dns.dimantus.com CNAME .
 dingdangnao.com CNAME .
@@ -3333,8 +3331,6 @@ atsilva.link CNAME .
 *.atsilva.link CNAME .
 dns.chattalk.link CNAME .
 *.dns.chattalk.link CNAME .
-dns-free.link CNAME .
-*.dns-free.link CNAME .
 eth.link CNAME .
 *.eth.link CNAME .
 dns.getnoclip.link CNAME .
@@ -6063,8 +6059,6 @@ dns.b33.space CNAME .
 *.dns.b33.space CNAME .
 b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space CNAME .
 *.b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space CNAME .
-cryptd.space CNAME .
-*.cryptd.space CNAME .
 addns.jpr.space CNAME .
 *.addns.jpr.space CNAME .
 adguard.lamhoangtung.space CNAME .

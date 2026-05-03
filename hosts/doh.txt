@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 May 2026 03:31 UTC
-# Version: 2026.0503.0331.36
+# Last modified: 03 May 2026 10:13 UTC
+# Version: 2026.0503.1013.17
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3929
+# Number of entries: 3926
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -854,7 +854,6 @@
 0.0.0.0 adguard.crestfallen.de
 0.0.0.0 cristianocosta.me
 0.0.0.0 dns.itsec.crolla.net
-0.0.0.0 cryptd.space
 0.0.0.0 crypto.sx
 0.0.0.0 doh.crypto.sx
 0.0.0.0 doh-ipv6.crypto.sx
@@ -1014,7 +1013,6 @@
 0.0.0.0 dns.dhemant.observer
 0.0.0.0 dns.isp.dhoho.net
 0.0.0.0 dns.diarbagus.id
-0.0.0.0 adguard.dientutronghuong.com
 0.0.0.0 digitale-gesellschaft.ch
 0.0.0.0 dns.digitale-gesellschaft.ch
 0.0.0.0 dns1.digitale-gesellschaft.ch
@@ -1061,7 +1059,6 @@
 0.0.0.0 dns.dns-53.us
 0.0.0.0 mikrobill.dns-cloud.net
 0.0.0.0 proariel.dns-dynamic.net
-0.0.0.0 dns-free.link
 0.0.0.0 dns.dns-heimdall.com
 0.0.0.0 dns.dns-over-https.com
 0.0.0.0 i.dns-over-https.tk

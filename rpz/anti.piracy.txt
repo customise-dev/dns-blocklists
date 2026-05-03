@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777778700 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777802760 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 May 2026 03:25 UTC
-; Version: 2026.0503.0325.24
+; Last modified: 03 May 2026 10:06 UTC
+; Version: 2026.0503.1006.23
 ; Syntax: RPZ
-; Number of entries: 24870
+; Number of entries: 24856
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1570,8 +1570,6 @@ darkvod.cc CNAME .
 *.darkvod.cc CNAME .
 ddl-warez.cc CNAME .
 *.ddl-warez.cc CNAME .
-dopebox.cc CNAME .
-*.dopebox.cc CNAME .
 downtr.cc CNAME .
 *.downtr.cc CNAME .
 dunia21.cc CNAME .
@@ -4530,8 +4528,6 @@ downloadha.com CNAME .
 *.downloadha.com CNAME .
 downloadpost.com CNAME .
 *.downloadpost.com CNAME .
-downloads-anymovies.com CNAME .
-*.downloads-anymovies.com CNAME .
 downparadise.com CNAME .
 *.downparadise.com CNAME .
 downpit.com CNAME .
@@ -9114,8 +9110,6 @@ annas-archive.cyou CNAME .
 *.annas-archive.cyou CNAME .
 cineblog001.cyou CNAME .
 *.cineblog001.cyou CNAME .
-crichd.cyou CNAME .
-*.crichd.cyou CNAME .
 dldokan.cyou CNAME .
 *.dldokan.cyou CNAME .
 eurostreaming.cyou CNAME .
@@ -11068,8 +11062,6 @@ vegamoviesw.com.in CNAME .
 *.vegamoviesw.com.in CNAME .
 comix-load.in CNAME .
 *.comix-load.in CNAME .
-crystal-warez.in CNAME .
-*.crystal-warez.in CNAME .
 uhdmovies.cs.in CNAME .
 *.uhdmovies.cs.in CNAME .
 data-load.in CNAME .
@@ -12568,8 +12560,6 @@ crimsonstorm18.live CNAME .
 *.crimsonstorm18.live CNAME .
 dflix.live CNAME .
 *.dflix.live CNAME .
-dood.live CNAME .
-*.dood.live CNAME .
 doodstream.live CNAME .
 *.doodstream.live CNAME .
 dotsport.live CNAME .
@@ -14248,8 +14238,6 @@ crocdb.net CNAME .
 *.crocdb.net CNAME .
 crohasit.net CNAME .
 *.crohasit.net CNAME .
-crsky.net CNAME .
-*.crsky.net CNAME .
 cstress.net CNAME .
 *.cstress.net CNAME .
 ctgtel.net CNAME .
@@ -21548,8 +21536,6 @@ tracker.cinemaz.to CNAME .
 *.tracker.cinemaz.to CNAME .
 comicmafia.to CNAME .
 *.comicmafia.to CNAME .
-cpasbien.to CNAME .
-*.cpasbien.to CNAME .
 cricfree.to CNAME .
 *.cricfree.to CNAME .
 crichd.to CNAME .
