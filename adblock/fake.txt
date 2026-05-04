@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 04 May 2026 07:45 UTC
-! Version: 2026.0504.0745.47
+! Last modified: 04 May 2026 12:23 UTC
+! Version: 2026.0504.1223.51
 ! Syntax: AdBlock
-! Number of entries: 14446
+! Number of entries: 14430
 !
 ||01broker.com^
 ||01crypto.com^
@@ -3429,6 +3429,7 @@
 ||duzeces.com^
 ||dvdsblurays.com^
 ||dvepare.com^
+||dw-energieholz.de^
 ||dwelldome.com^
 ||dwellivory.com^
 ||dxvape.com^
@@ -5488,6 +5489,7 @@
 ||hagebauu.com^
 ||hagedornmode.de^
 ||hagement.com^
+||hagezi.com^
 ||haglofsoutletsuomi.com^
 ||hagomann.de^
 ||hahaiamandy.com^
@@ -6932,6 +6934,7 @@
 ||katzende.de^
 ||katzenmarke.at^
 ||katzenweltde.de^
+||katzenzeithavelland.de^
 ||katzeohr.de^
 ||katzeonline.com^
 ||kauf-markt.com^
@@ -7571,7 +7574,6 @@
 ||lidleurireland.com^
 ||lidlhh.shop^
 ||lidlpalace.com^
-||lidlpp.shop^
 ||lidnz.shop^
 ||lidora.de^
 ||lidou.shop^
@@ -7663,7 +7665,6 @@
 ||litise.com^
 ||litroux.nl^
 ||littledreamersshop.com^
-||littledutchev.shop^
 ||littoncapitalgroup.com^
 ||liujoukshop.com^
 ||livaxxen.com^
@@ -7689,13 +7690,11 @@
 ||lloydslovakia.com^
 ||lm-heizoel.de^
 ||lmfmotoculture.com^
-||lng-energie.net^
 ||loakedanmarkshop.com^
 ||loakedeutschland.de^
 ||loakeoutlet.shop^
 ||loakeschweiz.net^
 ||locajardin.com^
-||nyhead.localdraw.shop^
 ||localgermany.de^
 ||locateanyphone.net^
 ||locationconseilsfinanciers.fr^
@@ -7718,7 +7717,6 @@
 ||lojasrafinno.com^
 ||lojatrazida.com^
 ||lojaurbantrack.com^
-||lokalerhandel.com^
 ||lokalweert.de^
 ||lollylips.com^
 ||lomiq.de^
@@ -7801,7 +7799,6 @@
 ||lowaapavi.com^
 ||lowabootsaustralia.net^
 ||lowabootsmexico.com^
-||lowaisrael.net^
 ||lowaoutletdeutschland.de^
 ||lowaoutletsdeutschland.de^
 ||lowaschuhefabrikverkauf.de^
@@ -7812,7 +7809,6 @@
 ||loxologyshop.com^
 ||lozenda.de^
 ||lozukiwojudo.media^
-||lpb-garten.de^
 ||lprhomes.com^
 ||lpriu.shop^
 ||lpteel.com^
@@ -7832,7 +7828,6 @@
 ||lucrabot-gpt.net^
 ||ludwigmaria.at^
 ||luffglasses.com^
-||luiliebeeu.shop^
 ||lukamode.de^
 ||lukasplazapauls.shop^
 ||lukeshoe.com^
@@ -7895,7 +7890,6 @@
 ||luxevibehub.com^
 ||luxfi.de^
 ||luxhause.de^
-||luxmaher.at^
 ||luxosmart.de^
 ||luxosmart.uk^
 ||luxtious.com^
@@ -7985,7 +7979,6 @@
 ||maisonerve.com^
 ||maisonorelle.com^
 ||maisonverkauf.com^
-||majestaetgastrodeeu.shop^
 ||major-agentur.de^
 ||major-tools.com^
 ||majoritye.com^
@@ -8004,7 +7997,6 @@
 ||malen-und-reisen.de^
 ||malens-boutique.de^
 ||malerbedarf-sales.com^
-||malibu257.com^
 ||mall-outdoors.com^
 ||mallof.shop^
 ||mallorca-partner.com^
@@ -8108,7 +8100,6 @@
 ||massimo-dutti.at^
 ||massimolutti.de^
 ||masterbaushop.de^
-||mastercareerlink.online^
 ||masterofmalteu.shop^
 ||masters-dipl-kfm.de^
 ||masti.store^
@@ -8119,13 +8110,10 @@
 ||materialbearbeitung.com^
 ||web.matignondeveloppement2-group.com^
 ||matrixator.com^
-||matrixblockstream.com^
 ||matrixersatzteile.com^
-||matschmitsahnedeeu.shop^
 ||mattelverkauf.de^
 ||matthias-koehl.de^
 ||matulus-garten24.de^
-||matzatlogistik.com^
 ||mauromilana.it^
 ||maurrenn.com^
 ||mauseabwehr.at^
@@ -8171,7 +8159,6 @@
 ||med-care24.com^
 ||med-direkt.com^
 ||med-praha24h.net^
-||medeurope24.com^
 ||media-deals24.de^
 ||media-dream.com^
 ||media-fix.de^
@@ -8215,7 +8202,6 @@
 ||meetcurve.de^
 ||meetfigure.com^
 ||friwl.mega-preise.com^
-||megacyperfumes.shop^
 ||megafliesen24.de^
 ||megagear.online^
 ||megahandel.shop^
@@ -8310,7 +8296,6 @@
 ||membershipy.com^
 ||memberxxl.de^
 ||memecoin.boo^
-||memede.de^
 ||memonei.com^
 ||men-accessories.store^
 ||men-clothing.store^
@@ -8351,7 +8336,6 @@
 ||merrellschuhe.de^
 ||mersse.com^
 ||messer-online-de.com^
-||messerladen.com^
 ||messerserie.com^
 ||messgerateprofi.com^
 ||messtechnikfull.com^

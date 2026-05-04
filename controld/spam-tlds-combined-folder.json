@@ -1547,6 +1547,13 @@
       }
     },
     {
+      "PK": "cslogs.space",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "cst.gdn",
       "action": {
         "do": 1,
@@ -3608,6 +3615,13 @@
       "PK": "instructions.online",
       "action": {
         "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.insure",
+      "action": {
+        "do": 0,
         "status": 1
       }
     },

@@ -400,6 +400,13 @@
       }
     },
     {
+      "PK": "insure",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "irish",
       "action": {
         "do": 0,

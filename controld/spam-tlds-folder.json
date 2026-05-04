@@ -960,6 +960,13 @@
       }
     },
     {
+      "PK": "*.insure",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.international",
       "action": {
         "do": 0,

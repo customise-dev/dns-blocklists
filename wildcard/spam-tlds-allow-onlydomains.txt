@@ -677,6 +677,7 @@ wpdns.site
 forecast.solar
 optimizer.solar
 ariadne.space
+cslogs.space
 dragonscave.space
 drgns.space
 embed-player.space

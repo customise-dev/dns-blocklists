@@ -1142,6 +1142,13 @@
       }
     },
     {
+      "PK": "cslogs.space",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "cst.gdn",
       "action": {
         "do": 1,

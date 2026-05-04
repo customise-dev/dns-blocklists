@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777880700 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777897380 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 May 2026 07:45 UTC
-; Version: 2026.0504.0745.47
+; Last modified: 04 May 2026 12:23 UTC
+; Version: 2026.0504.1223.51
 ; Syntax: RPZ
-; Number of entries: 28892
+; Number of entries: 28860
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -586,8 +586,6 @@ loopearplugs.at CNAME .
 *.loopearplugs.at CNAME .
 ludwigmaria.at CNAME .
 *.ludwigmaria.at CNAME .
-luxmaher.at CNAME .
-*.luxmaher.at CNAME .
 luxury-shop.at CNAME .
 *.luxury-shop.at CNAME .
 main-garten.at CNAME .
@@ -7962,6 +7960,8 @@ hagebauu.com CNAME .
 *.hagebauu.com CNAME .
 hagement.com CNAME .
 *.hagement.com CNAME .
+hagezi.com CNAME .
+*.hagezi.com CNAME .
 haglofsoutletsuomi.com CNAME .
 *.haglofsoutletsuomi.com CNAME .
 hahaiamandy.com CNAME .
@@ -10228,8 +10228,6 @@ lojatrazida.com CNAME .
 *.lojatrazida.com CNAME .
 lojaurbantrack.com CNAME .
 *.lojaurbantrack.com CNAME .
-lokalerhandel.com CNAME .
-*.lokalerhandel.com CNAME .
 lollylips.com CNAME .
 *.lollylips.com CNAME .
 londonemanagement.com CNAME .
@@ -10508,8 +10506,6 @@ male-meds-hub.com CNAME .
 *.male-meds-hub.com CNAME .
 malerbedarf-sales.com CNAME .
 *.malerbedarf-sales.com CNAME .
-malibu257.com CNAME .
-*.malibu257.com CNAME .
 mall-outdoors.com CNAME .
 *.mall-outdoors.com CNAME .
 mallorca-partner.com CNAME .
@@ -10636,12 +10632,8 @@ web.matignondeveloppement2-group.com CNAME .
 *.web.matignondeveloppement2-group.com CNAME .
 matrixator.com CNAME .
 *.matrixator.com CNAME .
-matrixblockstream.com CNAME .
-*.matrixblockstream.com CNAME .
 matrixersatzteile.com CNAME .
 *.matrixersatzteile.com CNAME .
-matzatlogistik.com CNAME .
-*.matzatlogistik.com CNAME .
 maurrenn.com CNAME .
 *.maurrenn.com CNAME .
 mavicsale.com CNAME .
@@ -10686,8 +10678,6 @@ med-care24.com CNAME .
 *.med-care24.com CNAME .
 med-direkt.com CNAME .
 *.med-direkt.com CNAME .
-medeurope24.com CNAME .
-*.medeurope24.com CNAME .
 media-dream.com CNAME .
 *.media-dream.com CNAME .
 media-guardian.com CNAME .
@@ -10850,8 +10840,6 @@ mersse.com CNAME .
 *.mersse.com CNAME .
 messer-online-de.com CNAME .
 *.messer-online-de.com CNAME .
-messerladen.com CNAME .
-*.messerladen.com CNAME .
 messerserie.com CNAME .
 *.messerserie.com CNAME .
 messgerateprofi.com CNAME .
@@ -19570,6 +19558,8 @@ durona.de CNAME .
 *.durona.de CNAME .
 duros.de CNAME .
 *.duros.de CNAME .
+dw-energieholz.de CNAME .
+*.dw-energieholz.de CNAME .
 dynamodeal.de CNAME .
 *.dynamodeal.de CNAME .
 dyson-de.de CNAME .
@@ -21482,6 +21472,8 @@ katzende.de CNAME .
 *.katzende.de CNAME .
 katzenweltde.de CNAME .
 *.katzenweltde.de CNAME .
+katzenzeithavelland.de CNAME .
+*.katzenzeithavelland.de CNAME .
 katzeohr.de CNAME .
 *.katzeohr.de CNAME .
 kaufenkamagra.de CNAME .
@@ -21984,8 +21976,6 @@ lowela.de CNAME .
 *.lowela.de CNAME .
 lozenda.de CNAME .
 *.lozenda.de CNAME .
-lpb-garten.de CNAME .
-*.lpb-garten.de CNAME .
 ls-rasenmeher.de CNAME .
 *.ls-rasenmeher.de CNAME .
 lucevera.de CNAME .
@@ -22270,8 +22260,6 @@ melodiewerk.de CNAME .
 *.melodiewerk.de CNAME .
 memberxxl.de CNAME .
 *.memberxxl.de CNAME .
-memede.de CNAME .
-*.memede.de CNAME .
 mendira.de CNAME .
 *.mendira.de CNAME .
 menfis.de CNAME .
@@ -26198,8 +26186,6 @@ lion-invest.net CNAME .
 *.lion-invest.net CNAME .
 ller.net CNAME .
 *.ller.net CNAME .
-lng-energie.net CNAME .
-*.lng-energie.net CNAME .
 loakeschweiz.net CNAME .
 *.loakeschweiz.net CNAME .
 locateanyphone.net CNAME .
@@ -26216,8 +26202,6 @@ lowa-schuhe.net CNAME .
 *.lowa-schuhe.net CNAME .
 lowabootsaustralia.net CNAME .
 *.lowabootsaustralia.net CNAME .
-lowaisrael.net CNAME .
-*.lowaisrael.net CNAME .
 lucrabot-gpt.net CNAME .
 *.lucrabot-gpt.net CNAME .
 lululemonportugal.net CNAME .
@@ -26610,8 +26594,6 @@ levne-kamagra.online CNAME .
 *.levne-kamagra.online CNAME .
 marecuperadora.online CNAME .
 *.marecuperadora.online CNAME .
-mastercareerlink.online CNAME .
-*.mastercareerlink.online CNAME .
 megagear.online CNAME .
 *.megagear.online CNAME .
 modafinil-predaj.online CNAME .
@@ -27452,8 +27434,6 @@ lhsnr.shop CNAME .
 *.lhsnr.shop CNAME .
 lidlhh.shop CNAME .
 *.lidlhh.shop CNAME .
-lidlpp.shop CNAME .
-*.lidlpp.shop CNAME .
 lidnz.shop CNAME .
 *.lidnz.shop CNAME .
 lidou.shop CNAME .
@@ -27478,14 +27458,10 @@ lisft.shop CNAME .
 *.lisft.shop CNAME .
 lisjo.shop CNAME .
 *.lisjo.shop CNAME .
-littledutchev.shop CNAME .
-*.littledutchev.shop CNAME .
 lloen.shop CNAME .
 *.lloen.shop CNAME .
 loakeoutlet.shop CNAME .
 *.loakeoutlet.shop CNAME .
-nyhead.localdraw.shop CNAME .
-*.nyhead.localdraw.shop CNAME .
 lockenbareu.shop CNAME .
 *.lockenbareu.shop CNAME .
 logitechoutlet-eu.shop CNAME .
@@ -27502,8 +27478,6 @@ luamddfaya.shop CNAME .
 *.luamddfaya.shop CNAME .
 luckau.shop CNAME .
 *.luckau.shop CNAME .
-luiliebeeu.shop CNAME .
-*.luiliebeeu.shop CNAME .
 lukasplazapauls.shop CNAME .
 *.lukasplazapauls.shop CNAME .
 lululemoneu.shop CNAME .
@@ -27516,8 +27490,6 @@ lxcvt.shop CNAME .
 *.lxcvt.shop CNAME .
 lxznpo.shop CNAME .
 *.lxznpo.shop CNAME .
-majestaetgastrodeeu.shop CNAME .
-*.majestaetgastrodeeu.shop CNAME .
 mallof.shop CNAME .
 *.mallof.shop CNAME .
 mandalaverkauf.shop CNAME .
@@ -27536,14 +27508,10 @@ massen.shop CNAME .
 *.massen.shop CNAME .
 masterofmalteu.shop CNAME .
 *.masterofmalteu.shop CNAME .
-matschmitsahnedeeu.shop CNAME .
-*.matschmitsahnedeeu.shop CNAME .
 mavelo.shop CNAME .
 *.mavelo.shop CNAME .
 mediaplus.shop CNAME .
 *.mediaplus.shop CNAME .
-megacyperfumes.shop CNAME .
-*.megacyperfumes.shop CNAME .
 megahandel.shop CNAME .
 *.megahandel.shop CNAME .
 megarabat.shop CNAME .

@@ -264,7 +264,7 @@ A blocklist for blocking fake stores, -streaming, rip-offs, cost traps and co.
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 14446 compressed domains
+**Entries:** 14430 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -312,7 +312,7 @@ A blocklist for blocking Malware, Cryptojacking, Scam, Spam and Phishing. Blocks
 > This blocklist is very large and may cause high memory usage depending on your ad blocker.          
 > For a more resource-friendly option, consider using the medium or mini versions.
                
-**Entries:** 1194962 domains/hosts - 132774 compressed hosts - 1056042 compressed domains
+**Entries:** 1184248 domains/hosts - 131584 compressed hosts - 1042260 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
