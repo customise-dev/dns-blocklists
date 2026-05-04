@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777827360 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777888260 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 May 2026 16:56 UTC
-; Version: 2026.0503.1656.31
+; Last modified: 04 May 2026 09:51 UTC
+; Version: 2026.0504.0951.11
 ; Syntax: RPZ
-; Number of entries: 6928
+; Number of entries: 6914
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1109,8 +1109,6 @@ sdns22.gkonuralp.com CNAME .
 *.sdns22.gkonuralp.com CNAME .
 dns.glorydns.com CNAME .
 *.dns.glorydns.com CNAME .
-panel.gogolvpn.com CNAME .
-*.panel.gogolvpn.com CNAME .
 dev.gonnadive.com CNAME .
 *.dev.gonnadive.com CNAME .
 adguard.gonzcid.com CNAME .
@@ -1193,8 +1191,6 @@ doh.hshkf.com CNAME .
 *.doh.hshkf.com CNAME .
 httpdns.huaweicloud.com CNAME .
 *.httpdns.huaweicloud.com CNAME .
-ads.hunga1k47.com CNAME .
-*.ads.hunga1k47.com CNAME .
 doth.huque.com CNAME .
 *.doth.huque.com CNAME .
 dns.huyizhou.com CNAME .
@@ -1217,8 +1213,6 @@ dns.ikataruto.com CNAME .
 *.dns.ikataruto.com CNAME .
 mnsvless.ikwb.com CNAME .
 *.mnsvless.ikwb.com CNAME .
-ilinhy.com CNAME .
-*.ilinhy.com CNAME .
 ilmxs.com CNAME .
 *.ilmxs.com CNAME .
 ad.imblien.com CNAME .
@@ -1261,8 +1255,6 @@ dns.jamessliu.com CNAME .
 *.dns.jamessliu.com CNAME .
 hk.janebooom.com CNAME .
 *.hk.janebooom.com CNAME .
-aghome.jcconnell.com CNAME .
-*.aghome.jcconnell.com CNAME .
 argus1.jcconnell.com CNAME .
 *.argus1.jcconnell.com CNAME .
 dns.jd.com CNAME .
@@ -1325,8 +1317,6 @@ hdns.ksyun.com CNAME .
 *.hdns.ksyun.com CNAME .
 dns.kugoapps.com CNAME .
 *.dns.kugoapps.com CNAME .
-adguard.kujoe.com CNAME .
-*.adguard.kujoe.com CNAME .
 cdns.lagzerotm.com CNAME .
 *.cdns.lagzerotm.com CNAME .
 mx1.laoxiao789.com CNAME .
@@ -5221,8 +5211,6 @@ gl33tch.pro CNAME .
 *.gl33tch.pro CNAME .
 httpdns.pro CNAME .
 *.httpdns.pro CNAME .
-ns1.lab321.pro CNAME .
-*.ns1.lab321.pro CNAME .
 ntwrkh.pro CNAME .
 *.ntwrkh.pro CNAME .
 dns.privateservices.pro CNAME .
@@ -6007,8 +5995,6 @@ callies-online.site CNAME .
 *.callies-online.site CNAME .
 fimoshinckaya-federation.site CNAME .
 *.fimoshinckaya-federation.site CNAME .
-ms.gswsfh2021.site CNAME .
-*.ms.gswsfh2021.site CNAME .
 dns.sgp.hicn.site CNAME .
 *.dns.sgp.hicn.site CNAME .
 khome.site CNAME .

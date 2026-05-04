@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 May 2026 16:56 UTC
-# Version: 2026.0503.1656.31
+# Last modified: 04 May 2026 09:51 UTC
+# Version: 2026.0504.0951.11
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3924
+# Number of entries: 3917
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1754,7 +1754,6 @@
 0.0.0.0 ux.go20.cf
 0.0.0.0 privacydns.go6lab.si
 0.0.0.0 dns.goertz.digital
-0.0.0.0 panel.gogolvpn.com
 0.0.0.0 eime.goip.de
 0.0.0.0 dohsg.goitoi.co
 0.0.0.0 dns.goldplate.org
@@ -1791,7 +1790,6 @@
 0.0.0.0 grunwald-marc.de
 0.0.0.0 vps.grussenmeyer.com
 0.0.0.0 dns.gsmseti.net
-0.0.0.0 ms.gswsfh2021.site
 0.0.0.0 bigseal1.gu-natee.uk
 0.0.0.0 guanmengkai.com
 0.0.0.0 dns.guard.io
@@ -1922,7 +1920,6 @@
 0.0.0.0 doh.hugang8.cn
 0.0.0.0 dns.huizegunsing.nl
 0.0.0.0 dns.hujiayucc.cn
-0.0.0.0 ads.hunga1k47.com
 0.0.0.0 huntllcx.cn
 0.0.0.0 doth.huque.com
 0.0.0.0 dns.huseynov.work
@@ -2040,7 +2037,6 @@
 0.0.0.0 ikarosalpha.xyz
 0.0.0.0 dns.ikataruto.com
 0.0.0.0 mnsvless.ikwb.com
-0.0.0.0 ilinhy.com
 0.0.0.0 ilmxs.com
 0.0.0.0 www.ilmxs.com
 0.0.0.0 ad.imblien.com
@@ -2125,7 +2121,6 @@
 0.0.0.0 fvpn.jarvishome.ru
 0.0.0.0 hk.jason666.top
 0.0.0.0 adguard.jaydub.cloud
-0.0.0.0 aghome.jcconnell.com
 0.0.0.0 argus1.jcconnell.com
 0.0.0.0 jcdns.fun
 0.0.0.0 dns.jd.com
@@ -2286,7 +2281,6 @@
 0.0.0.0 kstdownload.com
 0.0.0.0 hdns.ksyun.com
 0.0.0.0 dns.kugoapps.com
-0.0.0.0 adguard.kujoe.com
 0.0.0.0 dns.kukal.cz
 0.0.0.0 agh.kul-lippek.de
 0.0.0.0 dns.kusoneko.moe
@@ -2298,7 +2292,6 @@
 0.0.0.0 dns.kzrz.pl
 0.0.0.0 dns.l337.site
 0.0.0.0 dns.l6.ee
-0.0.0.0 ns1.lab321.pro
 0.0.0.0 dns.labar.re
 0.0.0.0 dns.labnekotest.site
 0.0.0.0 doh.lacontrevoie.fr

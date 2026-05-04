@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1777827480 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1777880820 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 May 2026 16:58 UTC
-; Version: 2026.0503.1658.13
+; Last modified: 04 May 2026 07:47 UTC
+; Version: 2026.0504.0747.56
 ; Syntax: RPZ
-; Number of entries: 19924
+; Number of entries: 19896
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -361,8 +361,6 @@ findmini.app CNAME .
 *.findmini.app CNAME .
 grey-sphere-536600.framer.app CNAME .
 *.grey-sphere-536600.framer.app CNAME .
-gacor.app CNAME .
-*.gacor.app CNAME .
 gigbridge.app CNAME .
 *.gigbridge.app CNAME .
 gosnip.app CNAME .
@@ -903,8 +901,6 @@ url.ba CNAME .
 *.url.ba CNAME .
 ink.vibez.band CNAME .
 *.ink.vibez.band CNAME .
-hqxxx.bar CNAME .
-*.hqxxx.bar CNAME .
 vypij.bar CNAME .
 *.vypij.bar CNAME .
 1cl.be CNAME .
@@ -4421,8 +4417,6 @@ g-linkly.com CNAME .
 *.g-linkly.com CNAME .
 gacortangandewa.com CNAME .
 *.gacortangandewa.com CNAME .
-gamegift24.com CNAME .
-*.gamegift24.com CNAME .
 gamegta.com CNAME .
 *.gamegta.com CNAME .
 gamerzchoices.com CNAME .
@@ -4515,8 +4509,6 @@ gomakethings.com CNAME .
 *.gomakethings.com CNAME .
 gomyly.com CNAME .
 *.gomyly.com CNAME .
-goo-id.com CNAME .
-*.goo-id.com CNAME .
 goo2url.com CNAME .
 *.goo2url.com CNAME .
 goodwinlink.com CNAME .
@@ -4567,8 +4559,6 @@ gyntekbusiness.com CNAME .
 *.gyntekbusiness.com CNAME .
 h-ref.com CNAME .
 *.h-ref.com CNAME .
-h2apz.com CNAME .
-*.h2apz.com CNAME .
 links.h4stack.com CNAME .
 *.links.h4stack.com CNAME .
 h5bio.com CNAME .
@@ -4585,8 +4575,6 @@ short.happenn.com CNAME .
 *.short.happenn.com CNAME .
 harounbillets.com CNAME .
 *.harounbillets.com CNAME .
-hascxr.com CNAME .
-*.hascxr.com CNAME .
 hazratyunus.com CNAME .
 *.hazratyunus.com CNAME .
 hcibh.com CNAME .
@@ -4901,8 +4889,6 @@ kabuzzle.com CNAME .
 *.kabuzzle.com CNAME .
 kaitect.com CNAME .
 *.kaitect.com CNAME .
-kalcty.com CNAME .
-*.kalcty.com CNAME .
 kamozshomecatalog.com CNAME .
 *.kamozshomecatalog.com CNAME .
 sms.katapult.com CNAME .
@@ -4955,8 +4941,6 @@ kuoqnt.com CNAME .
 *.kuoqnt.com CNAME .
 kuttify.com CNAME .
 *.kuttify.com CNAME .
-kuxey.com CNAME .
-*.kuxey.com CNAME .
 kwebby.com CNAME .
 *.kwebby.com CNAME .
 kwurl.com CNAME .
@@ -8663,8 +8647,6 @@ golnk.eu CNAME .
 *.golnk.eu CNAME .
 halloit.eu CNAME .
 *.halloit.eu CNAME .
-hepsipay.eu CNAME .
-*.hepsipay.eu CNAME .
 url.hilberg.eu CNAME .
 *.url.hilberg.eu CNAME .
 bit.ignifi.eu CNAME .
@@ -10403,8 +10385,6 @@ klicklink.info CNAME .
 *.klicklink.info CNAME .
 klik-ini.info CNAME .
 *.klik-ini.info CNAME .
-kliks.info CNAME .
-*.kliks.info CNAME .
 krete.info CNAME .
 *.krete.info CNAME .
 lanjutkan.info CNAME .
@@ -12345,8 +12325,6 @@ hellowork.life CNAME .
 *.hellowork.life CNAME .
 hirummy.life CNAME .
 *.hirummy.life CNAME .
-hoakhanh.life CNAME .
-*.hoakhanh.life CNAME .
 insdr.life CNAME .
 *.insdr.life CNAME .
 go.integritymatters.life CNAME .
@@ -12647,8 +12625,6 @@ gek.link CNAME .
 *.gek.link CNAME .
 gemy.link CNAME .
 *.gemy.link CNAME .
-generating.link CNAME .
-*.generating.link CNAME .
 gfl2exilium.link CNAME .
 *.gfl2exilium.link CNAME .
 gfmt.link CNAME .
@@ -13227,8 +13203,6 @@ gskvn.live CNAME .
 *.gskvn.live CNAME .
 haisauthangnam.live CNAME .
 *.haisauthangnam.live CNAME .
-hoaminh.live CNAME .
-*.hoaminh.live CNAME .
 jamesastaten.live CNAME .
 *.jamesastaten.live CNAME .
 jilitrick.live CNAME .
@@ -14079,8 +14053,6 @@ ixi.me CNAME .
 *.ixi.me CNAME .
 izip.me CNAME .
 *.izip.me CNAME .
-jalanku.me CNAME .
-*.jalanku.me CNAME .
 janji.me CNAME .
 *.janji.me CNAME .
 janjikita.me CNAME .

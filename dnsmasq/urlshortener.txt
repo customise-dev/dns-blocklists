@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 May 2026 16:58 UTC
-# Version: 2026.0503.1658.13
+# Last modified: 04 May 2026 07:47 UTC
+# Version: 2026.0504.0747.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9962
+# Number of entries: 9948
 #
 local=/0.gp/
 local=/00m.in/
@@ -2927,7 +2927,6 @@ local=/g9.yt/
 local=/ga.co/
 local=/gaa.st/
 local=/gacoer.win/
-local=/gacor.app/
 local=/gacor123.red/
 local=/gacor22.me/
 local=/gacor66.me/
@@ -2940,7 +2939,6 @@ local=/gacortexas.org/
 local=/gacorwak.xyz/
 local=/gafee.net/
 local=/gallerylink.info/
-local=/gamegift24.com/
 local=/gamegta.com/
 local=/gamerzchoices.com/
 local=/gandi.link/
@@ -2980,7 +2978,6 @@ local=/gemy.link/
 local=/gen.cat/
 local=/links.geneasens.com/
 local=/generatemyqr.com/
-local=/generating.link/
 local=/geni.us/
 local=/geniuslink.com/
 local=/geniusqr.io/
@@ -3151,7 +3148,6 @@ local=/goo.re/
 local=/goo.su/
 local=/goo.vc/
 local=/goo-gl.me/
-local=/goo-id.com/
 local=/goo2.pro/
 local=/goo2url.com/
 local=/goodmoejo.art/
@@ -3260,7 +3256,6 @@ local=/gym.sh/
 local=/gyntekbusiness.com/
 local=/h-ref.com/
 local=/h1.nu/
-local=/h2apz.com/
 local=/h3x.ir/
 local=/links.h4stack.com/
 local=/h5bio.com/
@@ -3282,7 +3277,6 @@ local=/short.happenn.com/
 local=/harisenin.link/
 local=/harounbillets.com/
 local=/has.coffee/
-local=/hascxr.com/
 local=/hashi.co/
 local=/hass.win/
 local=/hatl.ink/
@@ -3313,7 +3307,6 @@ local=/help-ua.cloud/
 local=/app.helpline-app.com/
 local=/view.helpline-app.com/
 local=/helvetqr.ch/
-local=/hepsipay.eu/
 local=/her.is/
 local=/hereit.is/
 local=/hereoo.com/
@@ -3390,8 +3383,6 @@ local=/hnsl.mn/
 local=/go.hny.co/
 local=/hnz.li/
 local=/ho.io/
-local=/hoakhanh.life/
-local=/hoaminh.live/
 local=/hocmai.link/
 local=/hodroffs.com/
 local=/hoeg.it/
@@ -3436,7 +3427,6 @@ local=/hp24.net/
 local=/hpe.to/
 local=/hplus-lighting.com/
 local=/hpvk.com/
-local=/hqxxx.bar/
 local=/hrbl.me/
 local=/hrbrg.co/
 local=/href.ar/
@@ -3817,7 +3807,6 @@ local=/jackson.events/
 local=/jaga.link/
 local=/jaglil.com/
 local=/jagoan-hosting.online/
-local=/jalanku.me/
 local=/jalanpintas4d.com/
 local=/jalurvip.co/
 local=/jalurwild.win/
@@ -3950,7 +3939,6 @@ local=/kabuzzle.com/
 local=/kagca.link/
 local=/kagk.top/
 local=/kaitect.com/
-local=/kalcty.com/
 local=/kamo.es/
 local=/kamozshomecatalog.com/
 local=/kannn.me/
@@ -4057,7 +4045,6 @@ local=/klik-ini.one/
 local=/klik-me.chat/
 local=/klikcuan.com/
 local=/klikmodus.buzz/
-local=/kliks.info/
 local=/kliks.online/
 local=/kliksaja.me/
 local=/kliksaya.co/
@@ -4138,7 +4125,6 @@ local=/kutt.it/
 local=/kutt.to/
 local=/kuttify.com/
 local=/kuty.us/
-local=/kuxey.com/
 local=/kuyla.me/
 local=/kv.ci/
 local=/kve.so/

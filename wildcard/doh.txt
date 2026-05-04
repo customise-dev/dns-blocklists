@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 May 2026 16:56 UTC
-# Version: 2026.0503.1656.31
+# Last modified: 04 May 2026 09:51 UTC
+# Version: 2026.0504.0951.11
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3464
+# Number of entries: 3457
 #
 *.ss.0001.xyz
 *.003153.xyz
@@ -1509,7 +1509,6 @@
 *.ux.go20.cf
 *.privacydns.go6lab.si
 *.dns.goertz.digital
-*.panel.gogolvpn.com
 *.eime.goip.de
 *.dohsg.goitoi.co
 *.dns.goldplate.org
@@ -1541,7 +1540,6 @@
 *.grunwald-marc.de
 *.vps.grussenmeyer.com
 *.dns.gsmseti.net
-*.ms.gswsfh2021.site
 *.bigseal1.gu-natee.uk
 *.guanmengkai.com
 *.dns.guard.io
@@ -1668,7 +1666,6 @@
 *.doh.hugang8.cn
 *.dns.huizegunsing.nl
 *.dns.hujiayucc.cn
-*.ads.hunga1k47.com
 *.huntllcx.cn
 *.doth.huque.com
 *.dns.huseynov.work
@@ -1742,7 +1739,6 @@
 *.ikarosalpha.xyz
 *.dns.ikataruto.com
 *.mnsvless.ikwb.com
-*.ilinhy.com
 *.ilmxs.com
 *.ad.imblien.com
 *.noads.imbuffering.com
@@ -1820,7 +1816,6 @@
 *.fvpn.jarvishome.ru
 *.hk.jason666.top
 *.adguard.jaydub.cloud
-*.aghome.jcconnell.com
 *.argus1.jcconnell.com
 *.jcdns.fun
 *.dns.jd.com
@@ -1972,7 +1967,6 @@
 *.kstdownload.com
 *.hdns.ksyun.com
 *.dns.kugoapps.com
-*.adguard.kujoe.com
 *.dns.kukal.cz
 *.agh.kul-lippek.de
 *.dns.kusoneko.moe
@@ -1984,7 +1978,6 @@
 *.dns.kzrz.pl
 *.dns.l337.site
 *.dns.l6.ee
-*.ns1.lab321.pro
 *.dns.labar.re
 *.dns.labnekotest.site
 *.doh.lacontrevoie.fr

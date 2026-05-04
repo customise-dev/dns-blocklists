@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 May 2026 16:56 UTC
-# Version: 2026.0503.1656.31
+# Last modified: 04 May 2026 09:51 UTC
+# Version: 2026.0504.0951.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3464
+# Number of entries: 3457
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1509,7 +1509,6 @@ local=/roadesdyn.go.ro/
 local=/ux.go20.cf/
 local=/privacydns.go6lab.si/
 local=/dns.goertz.digital/
-local=/panel.gogolvpn.com/
 local=/eime.goip.de/
 local=/dohsg.goitoi.co/
 local=/dns.goldplate.org/
@@ -1541,7 +1540,6 @@ local=/dns.grqu.de/
 local=/grunwald-marc.de/
 local=/vps.grussenmeyer.com/
 local=/dns.gsmseti.net/
-local=/ms.gswsfh2021.site/
 local=/bigseal1.gu-natee.uk/
 local=/guanmengkai.com/
 local=/dns.guard.io/
@@ -1668,7 +1666,6 @@ local=/httpdns.huaweicloud.com/
 local=/doh.hugang8.cn/
 local=/dns.huizegunsing.nl/
 local=/dns.hujiayucc.cn/
-local=/ads.hunga1k47.com/
 local=/huntllcx.cn/
 local=/doth.huque.com/
 local=/dns.huseynov.work/
@@ -1742,7 +1739,6 @@ local=/iij.jp/
 local=/ikarosalpha.xyz/
 local=/dns.ikataruto.com/
 local=/mnsvless.ikwb.com/
-local=/ilinhy.com/
 local=/ilmxs.com/
 local=/ad.imblien.com/
 local=/noads.imbuffering.com/
@@ -1820,7 +1816,6 @@ local=/hk.janebooom.com/
 local=/fvpn.jarvishome.ru/
 local=/hk.jason666.top/
 local=/adguard.jaydub.cloud/
-local=/aghome.jcconnell.com/
 local=/argus1.jcconnell.com/
 local=/jcdns.fun/
 local=/dns.jd.com/
@@ -1972,7 +1967,6 @@ local=/dns.krol.cloud/
 local=/kstdownload.com/
 local=/hdns.ksyun.com/
 local=/dns.kugoapps.com/
-local=/adguard.kujoe.com/
 local=/dns.kukal.cz/
 local=/agh.kul-lippek.de/
 local=/dns.kusoneko.moe/
@@ -1984,7 +1978,6 @@ local=/agh.kyusang.win/
 local=/dns.kzrz.pl/
 local=/dns.l337.site/
 local=/dns.l6.ee/
-local=/ns1.lab321.pro/
 local=/dns.labar.re/
 local=/dns.labnekotest.site/
 local=/doh.lacontrevoie.fr/

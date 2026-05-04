@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 May 2026 16:58 UTC
-! Version: 2026.0503.1658.13
+! Last modified: 04 May 2026 07:47 UTC
+! Version: 2026.0504.0747.56
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -2903,7 +2903,6 @@
 @@||ga.co^
 @@||gaa.st^
 @@||gacoer.win^
-@@||gacor.app^
 @@||gacor123.red^
 @@||gacor22.me^
 @@||gacor66.me^
@@ -2916,7 +2915,6 @@
 @@||gacorwak.xyz^
 @@||gafee.net^
 @@||gallerylink.info^
-@@||gamegift24.com^
 @@||gamegta.com^
 @@||gamerzchoices.com^
 @@||gandi.link^
@@ -2956,7 +2954,6 @@
 @@||gen.cat^
 @@||links.geneasens.com^
 @@||generatemyqr.com^
-@@||generating.link^
 @@||geni.us^
 @@||geniuslink.com^
 @@||geniusqr.io^
@@ -3126,7 +3123,6 @@
 @@||goo.su^
 @@||goo.vc^
 @@||goo-gl.me^
-@@||goo-id.com^
 @@||goo2.pro^
 @@||goo2url.com^
 @@||goodmoejo.art^
@@ -3234,7 +3230,6 @@
 @@||gyntekbusiness.com^
 @@||h-ref.com^
 @@||h1.nu^
-@@||h2apz.com^
 @@||h3x.ir^
 @@||links.h4stack.com^
 @@||h5bio.com^
@@ -3256,7 +3251,6 @@
 @@||harisenin.link^
 @@||harounbillets.com^
 @@||has.coffee^
-@@||hascxr.com^
 @@||hashi.co^
 @@||hass.win^
 @@||hatl.ink^
@@ -3287,7 +3281,6 @@
 @@||app.helpline-app.com^
 @@||view.helpline-app.com^
 @@||helvetqr.ch^
-@@||hepsipay.eu^
 @@||her.is^
 @@||hereit.is^
 @@||hereoo.com^
@@ -3362,8 +3355,6 @@
 @@||go.hny.co^
 @@||hnz.li^
 @@||ho.io^
-@@||hoakhanh.life^
-@@||hoaminh.live^
 @@||hocmai.link^
 @@||hodroffs.com^
 @@||hoeg.it^
@@ -3408,7 +3399,6 @@
 @@||hpe.to^
 @@||hplus-lighting.com^
 @@||hpvk.com^
-@@||hqxxx.bar^
 @@||hrbl.me^
 @@||hrbrg.co^
 @@||href.ar^
@@ -3785,7 +3775,6 @@
 @@||jaga.link^
 @@||jaglil.com^
 @@||jagoan-hosting.online^
-@@||jalanku.me^
 @@||jalanpintas4d.com^
 @@||jalurvip.co^
 @@||jalurwild.win^
@@ -3916,7 +3905,6 @@
 @@||kagca.link^
 @@||kagk.top^
 @@||kaitect.com^
-@@||kalcty.com^
 @@||kamo.es^
 @@||kamozshomecatalog.com^
 @@||kannn.me^
@@ -4021,7 +4009,6 @@
 @@||klik-me.chat^
 @@||klikcuan.com^
 @@||klikmodus.buzz^
-@@||kliks.info^
 @@||kliks.online^
 @@||kliksaja.me^
 @@||kliksaya.co^
@@ -4101,7 +4088,6 @@
 @@||kutt.to^
 @@||kuttify.com^
 @@||kuty.us^
-@@||kuxey.com^
 @@||kuyla.me^
 @@||kv.ci^
 @@||kve.so^
