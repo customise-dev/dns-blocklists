@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Apr 2026 17:00 UTC
-# Version: 2026.0429.1700.45
+# Last modified: 05 May 2026 21:49 UTC
+# Version: 2026.0505.2149.03
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 692
+# Number of entries: 695
 #
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
@@ -134,6 +134,9 @@
 0.0.0.0 ads-beta.aps.amazon-adsystem.com
 0.0.0.0 ads-gamma.aps.amazon-adsystem.com
 0.0.0.0 ads-setu-proxy-eu.amazon.com
+0.0.0.0 ads-setu-proxy-fe.amazon.com
+0.0.0.0 ads-setu-proxy.amazon.com
+0.0.0.0 ads.amazon.com
 0.0.0.0 ads.aps.amazon-adsystem.com
 0.0.0.0 advertising-api-eu.amazon.com
 0.0.0.0 advertising.a2z.com

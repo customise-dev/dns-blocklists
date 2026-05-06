@@ -312,7 +312,7 @@ A blocklist for blocking Malware, Cryptojacking, Scam, Spam and Phishing. Blocks
 > This blocklist is very large and may cause high memory usage depending on your ad blocker.          
 > For a more resource-friendly option, consider using the medium or mini versions.
                
-**Entries:** 1213539 domains/hosts - 134838 compressed hosts - 1068688 compressed domains
+**Entries:** 1431632 domains/hosts - 159071 compressed hosts - 1287853 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -394,7 +394,7 @@ Two variants are available:
 > Stamus Labs do not guarantee daily updates, and in some cases, data may be delayed by several days.            
 >               
 > Current status of the data provided:
-> - Stamus Labs: :green_circle: - Tue, 05 May 2026 05:11:19 UTC / 9542348 domains                
+> - Stamus Labs: :green_circle: - Wed, 06 May 2026 05:05:04 UTC / 9542348 domains                
                    
 #### :new: **NRDs:** Include all newly registered domains     
 

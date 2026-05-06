@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Apr 2026 17:00 UTC
-# Version: 2026.0429.1700.45
+# Last modified: 05 May 2026 21:49 UTC
+# Version: 2026.0505.2149.03
 # Syntax: Domains (without subdomains)
-# Number of entries: 322
+# Number of entries: 325
 #
 aan.amazon.co.jp
 aan.amazon.co.uk
@@ -86,6 +86,9 @@ aax-vx-us-us-east-1.amazon-adsystem.com
 aax-vx-us-us-west-2.amazon-adsystem.com
 aax.amazon-adsystem.com
 ads-setu-proxy-eu.amazon.com
+ads-setu-proxy-fe.amazon.com
+ads-setu-proxy.amazon.com
+ads.amazon.com
 advertising-api-eu.amazon.com
 advertising.a2z.com
 advertising.amazon.ae
