@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 May 2026 17:07 UTC
-# Version: 2026.0508.1707.45
+# Last modified: 09 May 2026 09:35 UTC
+# Version: 2026.0509.0935.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3446
+# Number of entries: 3448
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -330,6 +330,7 @@ local=/atris.cyou/
 local=/atsilva.link/
 local=/atsssgo.xyz/
 local=/dohtrial.att.net/
+local=/dns.auapi.fun/
 local=/auberge78.site/
 local=/dns.audet.cloud/
 local=/dns.auffray.org/
@@ -369,6 +370,7 @@ local=/dnscdn.bai0012.com/
 local=/httpdns.baidu.com/
 local=/httpsdns.baidu.com/
 local=/httpdns.baidubce.com/
+local=/dns.baishiyuan.cn/
 local=/adguard.baltes.info/
 local=/bancuh.com/
 local=/barnabech.fr/

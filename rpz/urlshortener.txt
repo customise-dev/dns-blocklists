@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778260140 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778312820 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 May 2026 17:09 UTC
-; Version: 2026.0508.1709.34
+; Last modified: 09 May 2026 07:47 UTC
+; Version: 2026.0509.0747.28
 ; Syntax: RPZ
-; Number of entries: 19788
+; Number of entries: 19804
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1209,6 +1209,8 @@ eventogo.app.br CNAME .
 *.eventogo.app.br CNAME .
 redirect.app.br CNAME .
 *.redirect.app.br CNAME .
+vstag.app.br CNAME .
+*.vstag.app.br CNAME .
 go.betnacional.bet.br CNAME .
 *.go.betnacional.bet.br CNAME .
 vai.bio.br CNAME .
@@ -2099,6 +2101,8 @@ cle.clinic CNAME .
 *.cle.clinic CNAME .
 affectit.cloud CNAME .
 *.affectit.cloud CNAME .
+anchorurl.cloud CNAME .
+*.anchorurl.cloud CNAME .
 belinki.cloud CNAME .
 *.belinki.cloud CNAME .
 biolink.cloud CNAME .
@@ -3475,6 +3479,8 @@ bannercho.com CNAME .
 *.bannercho.com CNAME .
 baoyung.com CNAME .
 *.baoyung.com CNAME .
+opusgrid.barberreels.com CNAME .
+*.opusgrid.barberreels.com CNAME .
 barkodi.com CNAME .
 *.barkodi.com CNAME .
 barsoocm.com CNAME .
@@ -3519,6 +3525,8 @@ beteshis.com CNAME .
 *.beteshis.com CNAME .
 bettrechies.com CNAME .
 *.bettrechies.com CNAME .
+bezlink.com CNAME .
+*.bezlink.com CNAME .
 biastonu.com CNAME .
 *.biastonu.com CNAME .
 bidiurl.com CNAME .
@@ -8969,6 +8977,8 @@ zlink.fun CNAME .
 *.zlink.fun CNAME .
 23.fyi CNAME .
 *.23.fyi CNAME .
+agt.fyi CNAME .
+*.agt.fyi CNAME .
 appp.fyi CNAME .
 *.appp.fyi CNAME .
 brendan.fyi CNAME .
@@ -11301,6 +11311,10 @@ zuitte.io CNAME .
 *.48l.ir CNAME .
 4eq.ir CNAME .
 *.4eq.ir CNAME .
+4md.ir CNAME .
+*.4md.ir CNAME .
+5ia.ir CNAME .
+*.5ia.ir CNAME .
 7g7.ir CNAME .
 *.7g7.ir CNAME .
 900r.ir CNAME .
@@ -14879,6 +14893,8 @@ aporasal.net CNAME .
 *.aporasal.net CNAME .
 arnogo.net CNAME .
 *.arnogo.net CNAME .
+atharori.net CNAME .
+*.atharori.net CNAME .
 avhop.net CNAME .
 *.avhop.net CNAME .
 b4y.net CNAME .

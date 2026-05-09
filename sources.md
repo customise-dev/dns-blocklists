@@ -17,6 +17,7 @@ https://codeberg.org/xRuffKez/DNSBunker_DNSBL/raw/branch/main/03_scam.txt
 https://codeberg.org/xRuffKez/DNSBunker_DNSBL/raw/branch/main/04_fake.txt
 https://codeberg.org/xRuffKez/DNSBunker_DNSBL/raw/branch/main/05_popup.txt
 https://codeberg.org/xRuffKez/DNSBunker_DNSBL/raw/branch/main/06_phish.txt
+https://codeberg.org/xRuffKez/tif/raw/branch/main/domains.txt
 https://ctu.gov.cz/vyhledavaci-databaze/blokovane-weby/csv
 https://dl.red.flag.domains/red.flag.domains.txt
 https://easydutch-ublockorigin.github.io/EasyDutch/EasyDutch.all.txt

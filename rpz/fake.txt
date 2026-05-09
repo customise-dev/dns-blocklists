@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778261640 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778312700 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 May 2026 17:34 UTC
-; Version: 2026.0508.1734.06
+; Last modified: 09 May 2026 07:45 UTC
+; Version: 2026.0509.0745.35
 ; Syntax: RPZ
-; Number of entries: 28858
+; Number of entries: 29044
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -102,6 +102,8 @@ amuseliebe.at CNAME .
 *.amuseliebe.at CNAME .
 andal.at CNAME .
 *.andal.at CNAME .
+animationsummer.at CNAME .
+*.animationsummer.at CNAME .
 annafieldwien.at CNAME .
 *.annafieldwien.at CNAME .
 annakatharina-wien.at CNAME .
@@ -450,6 +452,8 @@ hoganaustria.at CNAME .
 *.hoganaustria.at CNAME .
 hollister-co.at CNAME .
 *.hollister-co.at CNAME .
+hsdienst.at CNAME .
+*.hsdienst.at CNAME .
 hubers-salzburg.at CNAME .
 *.hubers-salzburg.at CNAME .
 hunde-katzen.at CNAME .
@@ -1082,6 +1086,8 @@ specialty-pharma.biz CNAME .
 *.specialty-pharma.biz CNAME .
 vldeq.blog CNAME .
 *.vldeq.blog CNAME .
+alfinags.bond CNAME .
+*.alfinags.bond CNAME .
 memecoin.boo CNAME .
 *.memecoin.boo CNAME .
 aradia.com.br CNAME .
@@ -1726,6 +1732,8 @@ a-baustofflager.com CNAME .
 *.a-baustofflager.com CNAME .
 a-pharmacie.com CNAME .
 *.a-pharmacie.com CNAME .
+a1-anlagen.com CNAME .
+*.a1-anlagen.com CNAME .
 a2j-baumarkt.com CNAME .
 *.a2j-baumarkt.com CNAME .
 aachentag.com CNAME .
@@ -1786,6 +1794,8 @@ acceptablt.com CNAME .
 *.acceptablt.com CNAME .
 log.acces-btpanda.com CNAME .
 *.log.acces-btpanda.com CNAME .
+contango-trading.acces-securise.com CNAME .
+*.contango-trading.acces-securise.com CNAME .
 accessorieschildren.com CNAME .
 *.accessorieschildren.com CNAME .
 accessoriessnow.com CNAME .
@@ -1846,10 +1856,14 @@ addblockcs.com CNAME .
 *.addblockcs.com CNAME .
 addedtechnology.com CNAME .
 *.addedtechnology.com CNAME .
+addictedtohandbagsde.com CNAME .
+*.addictedtohandbagsde.com CNAME .
 adidashrvatska.com CNAME .
 *.adidashrvatska.com CNAME .
 adidashungaryhu.com CNAME .
 *.adidashungaryhu.com CNAME .
+adidasperu.com CNAME .
+*.adidasperu.com CNAME .
 adidasyeezyofficialwebsite.com CNAME .
 *.adidasyeezyofficialwebsite.com CNAME .
 adihilfe.com CNAME .
@@ -1894,10 +1908,14 @@ aetiducri.com CNAME .
 *.aetiducri.com CNAME .
 af-anlagenpartner.com CNAME .
 *.af-anlagenpartner.com CNAME .
+affen-kaufen.com CNAME .
+*.affen-kaufen.com CNAME .
 affenzahn-schuhe.com CNAME .
 *.affenzahn-schuhe.com CNAME .
 affordablerxmeds.com CNAME .
 *.affordablerxmeds.com CNAME .
+afonsopecasonline.com CNAME .
+*.afonsopecasonline.com CNAME .
 afsinag-shop.com CNAME .
 *.afsinag-shop.com CNAME .
 afterhourshobby.com CNAME .
@@ -1938,6 +1956,8 @@ agriservice640.com CNAME .
 *.agriservice640.com CNAME .
 aguasco.com CNAME .
 *.aguasco.com CNAME .
+ahbishop.com CNAME .
+*.ahbishop.com CNAME .
 ahdoftime.com CNAME .
 *.ahdoftime.com CNAME .
 ahyokaboutique.com CNAME .
@@ -1992,6 +2012,8 @@ aktienpros.com CNAME .
 *.aktienpros.com CNAME .
 aktivimfreien.com CNAME .
 *.aktivimfreien.com CNAME .
+al-research.com CNAME .
+*.al-research.com CNAME .
 alairlenoir.com CNAME .
 *.alairlenoir.com CNAME .
 aldobolsasmexico.com CNAME .
@@ -2062,6 +2084,8 @@ allgoodssale.com CNAME .
 *.allgoodssale.com CNAME .
 allhotelsmorocco.com CNAME .
 *.allhotelsmorocco.com CNAME .
+alliance-investment-group.com CNAME .
+*.alliance-investment-group.com CNAME .
 allianz-brokers.com CNAME .
 *.allianz-brokers.com CNAME .
 alliedaffirm.com CNAME .
@@ -2196,6 +2220,8 @@ amaxuan.com CNAME .
 *.amaxuan.com CNAME .
 amazenda.com CNAME .
 *.amazenda.com CNAME .
+amazitech.com CNAME .
+*.amazitech.com CNAME .
 amaznboxde.com CNAME .
 *.amaznboxde.com CNAME .
 amazonboxus.com CNAME .
@@ -2218,6 +2244,8 @@ amffrance.com CNAME .
 *.amffrance.com CNAME .
 amkleidung.com CNAME .
 *.amkleidung.com CNAME .
+ammostoreonline.com CNAME .
+*.ammostoreonline.com CNAME .
 amp-finance.com CNAME .
 *.amp-finance.com CNAME .
 ampersandonlines.com CNAME .
@@ -2472,6 +2500,8 @@ arithmeticn.com CNAME .
 *.arithmeticn.com CNAME .
 arkamgym.com CNAME .
 *.arkamgym.com CNAME .
+arkload.com CNAME .
+*.arkload.com CNAME .
 arlodesire.com CNAME .
 *.arlodesire.com CNAME .
 armedangelsoutlet.com CNAME .
@@ -2550,8 +2580,12 @@ assess-health.com CNAME .
 *.assess-health.com CNAME .
 assetimperial.com CNAME .
 *.assetimperial.com CNAME .
+assetonehub.com CNAME .
+*.assetonehub.com CNAME .
 assignmenty.com CNAME .
 *.assignmenty.com CNAME .
+assortedfurniture.com CNAME .
+*.assortedfurniture.com CNAME .
 asta-barka.com CNAME .
 *.asta-barka.com CNAME .
 astaattacco.com CNAME .
@@ -2646,6 +2680,8 @@ auspitz-shop.com CNAME .
 *.auspitz-shop.com CNAME .
 aussiecarsupplies.com CNAME .
 *.aussiecarsupplies.com CNAME .
+australiannewstoday.com CNAME .
+*.australiannewstoday.com CNAME .
 austria-deals.com CNAME .
 *.austria-deals.com CNAME .
 austrialpinverkaufe.com CNAME .
@@ -2664,6 +2700,8 @@ autochromatic.com CNAME .
 *.autochromatic.com CNAME .
 autodailyreport.com CNAME .
 *.autodailyreport.com CNAME .
+autodichtung.com CNAME .
+*.autodichtung.com CNAME .
 autoexpertpartshop.com CNAME .
 *.autoexpertpartshop.com CNAME .
 autogearlabflow.com CNAME .
@@ -2676,6 +2714,8 @@ automaticl.com CNAME .
 *.automaticl.com CNAME .
 automatiy.com CNAME .
 *.automatiy.com CNAME .
+automotorplus.com CNAME .
+*.automotorplus.com CNAME .
 automotorradkomponente.com CNAME .
 *.automotorradkomponente.com CNAME .
 autopartsbandeira.com CNAME .
@@ -2768,10 +2808,14 @@ azuremodule.com CNAME .
 *.azuremodule.com CNAME .
 b-und-h.com CNAME .
 *.b-und-h.com CNAME .
+b2trades.com CNAME .
+*.b2trades.com CNAME .
 b4trade.com CNAME .
 *.b4trade.com CNAME .
 baboktransports.com CNAME .
 *.baboktransports.com CNAME .
+baby-rostock.com CNAME .
+*.baby-rostock.com CNAME .
 babyausstattung-de.com CNAME .
 *.babyausstattung-de.com CNAME .
 babybay-de.com CNAME .
@@ -2962,6 +3006,8 @@ batchof.com CNAME .
 *.batchof.com CNAME .
 bates-boots.com CNAME .
 *.bates-boots.com CNAME .
+bathroomdisplay.com CNAME .
+*.bathroomdisplay.com CNAME .
 bathroomstylish.com CNAME .
 *.bathroomstylish.com CNAME .
 baubali.com CNAME .
@@ -3228,6 +3274,8 @@ bestermarkt.com CNAME .
 *.bestermarkt.com CNAME .
 besteschlaftabletten.com CNAME .
 *.besteschlaftabletten.com CNAME .
+bestgenericonline.com CNAME .
+*.bestgenericonline.com CNAME .
 besthomeship.com CNAME .
 *.besthomeship.com CNAME .
 besthunny.com CNAME .
@@ -3302,6 +3350,8 @@ bforbroker.com CNAME .
 *.bforbroker.com CNAME .
 bforex.com CNAME .
 *.bforex.com CNAME .
+bfxoption.com CNAME .
+*.bfxoption.com CNAME .
 bhajandarshan.com CNAME .
 *.bhajandarshan.com CNAME .
 bicelio.com CNAME .
@@ -4118,6 +4168,8 @@ casadochocolatee.com CNAME .
 *.casadochocolatee.com CNAME .
 casaeternaluz.com CNAME .
 *.casaeternaluz.com CNAME .
+casagomart.com CNAME .
+*.casagomart.com CNAME .
 casaivora.com CNAME .
 *.casaivora.com CNAME .
 cascosoffroad.com CNAME .
@@ -4648,6 +4700,8 @@ coplimentues.com CNAME .
 *.coplimentues.com CNAME .
 coralcoveswim.com CNAME .
 *.coralcoveswim.com CNAME .
+coremat-industrie.com CNAME .
+*.coremat-industrie.com CNAME .
 corevitalnutraceuticals.com CNAME .
 *.corevitalnutraceuticals.com CNAME .
 corisfinance.com CNAME .
@@ -5036,6 +5090,8 @@ dealira.com CNAME .
 *.dealira.com CNAME .
 dealmanias.com CNAME .
 *.dealmanias.com CNAME .
+store.dealofferix.com CNAME .
+*.store.dealofferix.com CNAME .
 dealpinaverkauf.com CNAME .
 *.dealpinaverkauf.com CNAME .
 deangelnshop.com CNAME .
@@ -5646,6 +5702,8 @@ e-rollzock.com CNAME .
 *.e-rollzock.com CNAME .
 e-trekkingrader.com CNAME .
 *.e-trekkingrader.com CNAME .
+e-youbikes.com CNAME .
+*.e-youbikes.com CNAME .
 ea-heizoel.com CNAME .
 *.ea-heizoel.com CNAME .
 eaepp.com CNAME .
@@ -6654,6 +6712,8 @@ figurinestoys.com CNAME .
 *.figurinestoys.com CNAME .
 filamniceent.com CNAME .
 *.filamniceent.com CNAME .
+fillamoda.com CNAME .
+*.fillamoda.com CNAME .
 fillethumn.com CNAME .
 *.fillethumn.com CNAME .
 filloutlet.com CNAME .
@@ -8352,6 +8412,8 @@ hidrogota.com CNAME .
 *.hidrogota.com CNAME .
 hierarchyk.com CNAME .
 *.hierarchyk.com CNAME .
+hifistudioroma.com CNAME .
+*.hifistudioroma.com CNAME .
 hig-finance.com CNAME .
 *.hig-finance.com CNAME .
 high-quality-model.com CNAME .
@@ -8536,6 +8598,8 @@ homeplaceshop.com CNAME .
 *.homeplaceshop.com CNAME .
 homerungrocers.com CNAME .
 *.homerungrocers.com CNAME .
+homestorex.com CNAME .
+*.homestorex.com CNAME .
 homesupplybest.com CNAME .
 *.homesupplybest.com CNAME .
 homesurya.com CNAME .
@@ -8798,6 +8862,8 @@ ihrrasentraktor.com CNAME .
 *.ihrrasentraktor.com CNAME .
 iinfitenily.com CNAME .
 *.iinfitenily.com CNAME .
+ijhardware.com CNAME .
+*.ijhardware.com CNAME .
 ikici.com CNAME .
 *.ikici.com CNAME .
 ikkotrader.com CNAME .
@@ -9766,6 +9832,8 @@ kryptofx.com CNAME .
 *.kryptofx.com CNAME .
 kryptoneo.com CNAME .
 *.kryptoneo.com CNAME .
+ks-baumarkt.com CNAME .
+*.ks-baumarkt.com CNAME .
 ksftrade.com CNAME .
 *.ksftrade.com CNAME .
 kuchegastroeqpt.com CNAME .
@@ -9784,6 +9852,8 @@ kucheshop.com CNAME .
 *.kucheshop.com CNAME .
 kudurun.com CNAME .
 *.kudurun.com CNAME .
+kuechenmeistershop.com CNAME .
+*.kuechenmeistershop.com CNAME .
 kuechesale.com CNAME .
 *.kuechesale.com CNAME .
 kurvea.com CNAME .
@@ -10934,6 +11004,8 @@ midasmarkt.com CNAME .
 *.midasmarkt.com CNAME .
 midikleider.com CNAME .
 *.midikleider.com CNAME .
+midlandmodels.com CNAME .
+*.midlandmodels.com CNAME .
 midnightchems.com CNAME .
 *.midnightchems.com CNAME .
 midnighti.com CNAME .
@@ -11458,6 +11530,8 @@ bakta8.myshopify.com CNAME .
 *.bakta8.myshopify.com CNAME .
 berkshirede.myshopify.com CNAME .
 *.berkshirede.myshopify.com CNAME .
+berlinkaffee.myshopify.com CNAME .
+*.berlinkaffee.myshopify.com CNAME .
 block-versand-gmbh.myshopify.com CNAME .
 *.block-versand-gmbh.myshopify.com CNAME .
 bonficegermany.myshopify.com CNAME .
@@ -13574,6 +13648,8 @@ radteiledeal.com CNAME .
 *.radteiledeal.com CNAME .
 radverkauf.com CNAME .
 *.radverkauf.com CNAME .
+radzubehoer24.com CNAME .
+*.radzubehoer24.com CNAME .
 radzubehoerde.com CNAME .
 *.radzubehoerde.com CNAME .
 ragwearaustria.com CNAME .
@@ -13740,6 +13816,8 @@ reminora.com CNAME .
 *.reminora.com CNAME .
 remorcas.com CNAME .
 *.remorcas.com CNAME .
+remorque-fermee-ffrance.com CNAME .
+*.remorque-fermee-ffrance.com CNAME .
 remorquesdunords.com CNAME .
 *.remorquesdunords.com CNAME .
 remote-arbeiten.com CNAME .
@@ -15196,6 +15274,8 @@ stoneislandlietuva.com CNAME .
 *.stoneislandlietuva.com CNAME .
 stonesandrockz.com CNAME .
 *.stonesandrockz.com CNAME .
+stonewyld.com CNAME .
+*.stonewyld.com CNAME .
 stoppedonline.com CNAME .
 *.stoppedonline.com CNAME .
 storch-apotheke.com CNAME .
@@ -15246,6 +15326,8 @@ story-news.com CNAME .
 *.story-news.com CNAME .
 stoxdc.com CNAME .
 *.stoxdc.com CNAME .
+stpremorques.com CNAME .
+*.stpremorques.com CNAME .
 strabenmotorrad.com CNAME .
 *.strabenmotorrad.com CNAME .
 strahlwerk24.com CNAME .
@@ -16270,6 +16352,8 @@ transparentw.com CNAME .
 *.transparentw.com CNAME .
 transportangatahy.com CNAME .
 *.transportangatahy.com CNAME .
+transportes-angel-salinas.com CNAME .
+*.transportes-angel-salinas.com CNAME .
 transportwelt.com CNAME .
 *.transportwelt.com CNAME .
 tratonfinn.com CNAME .
@@ -16722,6 +16806,8 @@ uxceller.com CNAME .
 *.uxceller.com CNAME .
 vacamy.com CNAME .
 *.vacamy.com CNAME .
+eshop.vailmere.com CNAME .
+*.eshop.vailmere.com CNAME .
 vakrin.com CNAME .
 *.vakrin.com CNAME .
 valentinocanada.com CNAME .
@@ -16826,6 +16912,8 @@ velanoshop.com CNAME .
 *.velanoshop.com CNAME .
 velaro-plus.com CNAME .
 *.velaro-plus.com CNAME .
+velo-nation.com CNAME .
+*.velo-nation.com CNAME .
 velocityh.com CNAME .
 *.velocityh.com CNAME .
 velonawarehouse.com CNAME .
@@ -17266,6 +17354,8 @@ weconti.com CNAME .
 *.weconti.com CNAME .
 wegovymexicopharmacy.com CNAME .
 *.wegovymexicopharmacy.com CNAME .
+weihnachtsdekokaufen.com CNAME .
+*.weihnachtsdekokaufen.com CNAME .
 weinekaufen.com CNAME .
 *.weinekaufen.com CNAME .
 weinesprituosen.com CNAME .
@@ -18082,6 +18172,8 @@ aktion-motorrad.de CNAME .
 *.aktion-motorrad.de CNAME .
 aktionheizung.de CNAME .
 *.aktionheizung.de CNAME .
+aktivabenteuer.de CNAME .
+*.aktivabenteuer.de CNAME .
 store.aktuellerezensionen.de CNAME .
 *.store.aktuellerezensionen.de CNAME .
 albrechtmode.de CNAME .
@@ -18178,6 +18270,8 @@ amethysts.de CNAME .
 *.amethysts.de CNAME .
 amira-boutique.de CNAME .
 *.amira-boutique.de CNAME .
+amluxuryltd.de CNAME .
+*.amluxuryltd.de CNAME .
 amodafashion.de CNAME .
 *.amodafashion.de CNAME .
 amperland-brennholz.de CNAME .
@@ -18194,6 +18288,8 @@ andreaswerkstatt.de CNAME .
 *.andreaswerkstatt.de CNAME .
 angebote-kauf.de CNAME .
 *.angebote-kauf.de CNAME .
+angenehme.de CNAME .
+*.angenehme.de CNAME .
 angermaierwiesn.de CNAME .
 *.angermaierwiesn.de CNAME .
 anhaenger-von-thule.de CNAME .
@@ -18254,6 +18350,8 @@ aquarisonlineshop.de CNAME .
 *.aquarisonlineshop.de CNAME .
 arabues.de CNAME .
 *.arabues.de CNAME .
+araschuheoutlet.de CNAME .
+*.araschuheoutlet.de CNAME .
 arbitrage-solar.de CNAME .
 *.arbitrage-solar.de CNAME .
 arcaktuell.de CNAME .
@@ -18290,6 +18388,8 @@ artevive.de CNAME .
 *.artevive.de CNAME .
 artizenti.de CNAME .
 *.artizenti.de CNAME .
+artorix.de CNAME .
+*.artorix.de CNAME .
 arvato-entertainment.de CNAME .
 *.arvato-entertainment.de CNAME .
 arzi.de CNAME .
@@ -18314,10 +18414,18 @@ ateliermunchen.de CNAME .
 *.ateliermunchen.de CNAME .
 atlantictrikot.de CNAME .
 *.atlantictrikot.de CNAME .
+atossy.de CNAME .
+*.atossy.de CNAME .
 atuiomane.de CNAME .
 *.atuiomane.de CNAME .
+atvelektro.de CNAME .
+*.atvelektro.de CNAME .
 audelion.de CNAME .
 *.audelion.de CNAME .
+audery.de CNAME .
+*.audery.de CNAME .
+audiomachinery.de CNAME .
+*.audiomachinery.de CNAME .
 auf-thuletour.de CNAME .
 *.auf-thuletour.de CNAME .
 aufladekarten24.de CNAME .
@@ -18346,6 +18454,8 @@ autohausvacha.de CNAME .
 *.autohausvacha.de CNAME .
 autolinie.de CNAME .
 *.autolinie.de CNAME .
+automeile-hamburg.de CNAME .
+*.automeile-hamburg.de CNAME .
 autoradiomitnavigation.de CNAME .
 *.autoradiomitnavigation.de CNAME .
 autosalon-kl.de CNAME .
@@ -18380,6 +18490,8 @@ awc-of-berlin.de CNAME .
 *.awc-of-berlin.de CNAME .
 awo-baumarkt.de CNAME .
 *.awo-baumarkt.de CNAME .
+axessinvest.de CNAME .
+*.axessinvest.de CNAME .
 axl-staking.de CNAME .
 *.axl-staking.de CNAME .
 axmof.de CNAME .
@@ -18416,12 +18528,16 @@ baerliner-apotheke-berlin-marzahn.de CNAME .
 *.baerliner-apotheke-berlin-marzahn.de CNAME .
 bahnhof-apotheke-hersbruck.de CNAME .
 *.bahnhof-apotheke-hersbruck.de CNAME .
+bakerrabatt.de CNAME .
+*.bakerrabatt.de CNAME .
 balancedecke.de CNAME .
 *.balancedecke.de CNAME .
 baleurs.de CNAME .
 *.baleurs.de CNAME .
 baleurshop.de CNAME .
 *.baleurshop.de CNAME .
+ballerns.de CNAME .
+*.ballerns.de CNAME .
 ballszone.de CNAME .
 *.ballszone.de CNAME .
 balony.de CNAME .
@@ -19016,6 +19132,8 @@ clickworker.de CNAME .
 *.clickworker.de CNAME .
 clinora.de CNAME .
 *.clinora.de CNAME .
+closeoutstore.de CNAME .
+*.closeoutstore.de CNAME .
 clotha-boutique.de CNAME .
 *.clotha-boutique.de CNAME .
 cloudschuhesale.de CNAME .
@@ -19166,6 +19284,8 @@ crystalnova.de CNAME .
 *.crystalnova.de CNAME .
 csbclo.de CNAME .
 *.csbclo.de CNAME .
+cschwindt24.de CNAME .
+*.cschwindt24.de CNAME .
 csschwindt.de CNAME .
 *.csschwindt.de CNAME .
 cubeu.de CNAME .
@@ -19322,6 +19442,8 @@ dehnerverkauf.de CNAME .
 *.dehnerverkauf.de CNAME .
 dein-elektroshop.de CNAME .
 *.dein-elektroshop.de CNAME .
+dein-heizoelmarkt.de CNAME .
+*.dein-heizoelmarkt.de CNAME .
 dein-modehaus.de CNAME .
 *.dein-modehaus.de CNAME .
 dein-rundfunkbeitrag.de CNAME .
@@ -20016,6 +20138,8 @@ fashnique-shop.de CNAME .
 *.fashnique-shop.de CNAME .
 fasonberlin.de CNAME .
 *.fasonberlin.de CNAME .
+fasoo.de CNAME .
+*.fasoo.de CNAME .
 fastyslim.de CNAME .
 *.fastyslim.de CNAME .
 faszinationholz-salzmann.de CNAME .
@@ -20034,6 +20158,8 @@ felgenonkel.de CNAME .
 *.felgenonkel.de CNAME .
 felgenprada.de CNAME .
 *.felgenprada.de CNAME .
+felino-sport.de CNAME .
+*.felino-sport.de CNAME .
 felira.de CNAME .
 *.felira.de CNAME .
 fembeck-finanzen.de CNAME .
@@ -20408,6 +20534,14 @@ gebaeudevorsorge.de CNAME .
 *.gebaeudevorsorge.de CNAME .
 gebra-gartenhandel.de CNAME .
 *.gebra-gartenhandel.de CNAME .
+gebraucht-sixt-car-sales.de CNAME .
+*.gebraucht-sixt-car-sales.de CNAME .
+gebraucht-sixt-carsales.de CNAME .
+*.gebraucht-sixt-carsales.de CNAME .
+gebrauchtwagen-sixt-carsales-garching.de CNAME .
+*.gebrauchtwagen-sixt-carsales-garching.de CNAME .
+gebrauchtwagen-sixtcarsales.de CNAME .
+*.gebrauchtwagen-sixtcarsales.de CNAME .
 gebrauchtwagengarching-sixt.de CNAME .
 *.gebrauchtwagengarching-sixt.de CNAME .
 gebuhr-tech.de CNAME .
@@ -20418,6 +20552,8 @@ gelbente.de CNAME .
 *.gelbente.de CNAME .
 gelschuhe.de CNAME .
 *.gelschuhe.de CNAME .
+gelvibe.de CNAME .
+*.gelvibe.de CNAME .
 gentleman-krawatte.de CNAME .
 *.gentleman-krawatte.de CNAME .
 gentlemanmode.de CNAME .
@@ -20708,6 +20844,8 @@ hans-fahrradhaus.de CNAME .
 *.hans-fahrradhaus.de CNAME .
 hans-pick.de CNAME .
 *.hans-pick.de CNAME .
+hansacontainergmbh.de CNAME .
+*.hansacontainergmbh.de CNAME .
 hanse-consol.de CNAME .
 *.hanse-consol.de CNAME .
 hanwagoutletstore.de CNAME .
@@ -21106,6 +21244,8 @@ hokadeutschland.de CNAME .
 *.hokadeutschland.de CNAME .
 holda-konigsallee.de CNAME .
 *.holda-konigsallee.de CNAME .
+holdirwerkzeug.de CNAME .
+*.holdirwerkzeug.de CNAME .
 holtz-handel.de CNAME .
 *.holtz-handel.de CNAME .
 holz-deal24.de CNAME .
@@ -21268,6 +21408,8 @@ idealux.de CNAME .
 *.idealux.de CNAME .
 idproof.de CNAME .
 *.idproof.de CNAME .
+idsaled.de CNAME .
+*.idsaled.de CNAME .
 igona.de CNAME .
 *.igona.de CNAME .
 ihreedelmetallprofis.de CNAME .
@@ -21318,6 +21460,8 @@ indiespiele-online.de CNAME .
 *.indiespiele-online.de CNAME .
 indiespieleonline.de CNAME .
 *.indiespieleonline.de CNAME .
+industriehub.de CNAME .
+*.industriehub.de CNAME .
 inetchip.de CNAME .
 *.inetchip.de CNAME .
 inetzteil.de CNAME .
@@ -22292,6 +22436,8 @@ mein-bauhof.de CNAME .
 *.mein-bauhof.de CNAME .
 mein-buch24.de CNAME .
 *.mein-buch24.de CNAME .
+mein-euro-kredit.de CNAME .
+*.mein-euro-kredit.de CNAME .
 mein-gartenmarkt.de CNAME .
 *.mein-gartenmarkt.de CNAME .
 mein-gartentor.de CNAME .
@@ -22360,6 +22506,8 @@ mercedes-parts-and-more.de CNAME .
 *.mercedes-parts-and-more.de CNAME .
 mercimunich.de CNAME .
 *.mercimunich.de CNAME .
+merrell-deutschland.de CNAME .
+*.merrell-deutschland.de CNAME .
 merrelloutletonline.de CNAME .
 *.merrelloutletonline.de CNAME .
 merrellschuhe.de CNAME .
@@ -23252,6 +23400,8 @@ poolbay.de CNAME .
 *.poolbay.de CNAME .
 poolina.de CNAME .
 *.poolina.de CNAME .
+pooloas.de CNAME .
+*.pooloas.de CNAME .
 poolsteine-online.de CNAME .
 *.poolsteine-online.de CNAME .
 popland-berlin.de CNAME .
@@ -23394,6 +23544,8 @@ radrudel.de CNAME .
 *.radrudel.de CNAME .
 radselect.de CNAME .
 *.radselect.de CNAME .
+radsport-viernheim.de CNAME .
+*.radsport-viernheim.de CNAME .
 radteil.de CNAME .
 *.radteil.de CNAME .
 radtrikotoutlet.de CNAME .
@@ -23670,6 +23822,8 @@ salesappv51.de CNAME .
 *.salesappv51.de CNAME .
 salesconsulter.de CNAME .
 *.salesconsulter.de CNAME .
+salesnex.de CNAME .
+*.salesnex.de CNAME .
 salomon-deutschland.de CNAME .
 *.salomon-deutschland.de CNAME .
 salomondeutschlandsale.de CNAME .
@@ -24188,6 +24342,8 @@ stilhaus-mode.de CNAME .
 *.stilhaus-mode.de CNAME .
 still-sonderaktionen.de CNAME .
 *.still-sonderaktionen.de CNAME .
+stillhandel.de CNAME .
+*.stillhandel.de CNAME .
 stilmark.de CNAME .
 *.stilmark.de CNAME .
 stilovo.de CNAME .
@@ -24610,6 +24766,8 @@ valeko.de CNAME .
 *.valeko.de CNAME .
 valurabeauty.de CNAME .
 *.valurabeauty.de CNAME .
+vanofashion.de CNAME .
+*.vanofashion.de CNAME .
 vansion.de CNAME .
 *.vansion.de CNAME .
 vanss.de CNAME .
@@ -24690,6 +24848,8 @@ vering-24.de CNAME .
 *.vering-24.de CNAME .
 veripro.de CNAME .
 *.veripro.de CNAME .
+verkaufen-pruf.de CNAME .
+*.verkaufen-pruf.de CNAME .
 versandhaus-herrmann.de CNAME .
 *.versandhaus-herrmann.de CNAME .
 versandoase.de CNAME .
@@ -24738,6 +24898,8 @@ vita-pflege.de CNAME .
 *.vita-pflege.de CNAME .
 vitacola-gratis.de CNAME .
 *.vitacola-gratis.de CNAME .
+vitrinaox.de CNAME .
+*.vitrinaox.de CNAME .
 vivabikes.de CNAME .
 *.vivabikes.de CNAME .
 vivaia-schuhe.de CNAME .
@@ -24970,6 +25132,8 @@ western-cowboy-shop.de CNAME .
 *.western-cowboy-shop.de CNAME .
 westernandcowboy.de CNAME .
 *.westernandcowboy.de CNAME .
+westex-handell.de CNAME .
+*.westex-handell.de CNAME .
 westfeldmode.de CNAME .
 *.westfeldmode.de CNAME .
 wetting.de CNAME .
@@ -25126,6 +25290,8 @@ yorkbootsshop.de CNAME .
 *.yorkbootsshop.de CNAME .
 youzuu.de CNAME .
 *.youzuu.de CNAME .
+yvmonlinebusiness.de CNAME .
+*.yvmonlinebusiness.de CNAME .
 zackfit.de CNAME .
 *.zackfit.de CNAME .
 zahnpflegerabatt.de CNAME .
@@ -25454,8 +25620,6 @@ nogentais.finance CNAME .
 *.nogentais.finance CNAME .
 tagesschau.finance CNAME .
 *.tagesschau.finance CNAME .
-mob.faceyoga.fit CNAME .
-*.mob.faceyoga.fit CNAME .
 man-zone.fit CNAME .
 *.man-zone.fit CNAME .
 vow.foundation CNAME .
@@ -25664,6 +25828,8 @@ uk-trd.investments CNAME .
 *.uk-trd.investments CNAME .
 advanziagroup.io CNAME .
 *.advanziagroup.io CNAME .
+airnext.io CNAME .
+*.airnext.io CNAME .
 altior-capital.io CNAME .
 *.altior-capital.io CNAME .
 arlequininvest.io CNAME .
@@ -25830,6 +25996,8 @@ hippo2.eth.limo CNAME .
 *.hippo2.eth.limo CNAME .
 happyfamilystore.link CNAME .
 *.happyfamilystore.link CNAME .
+adolf.live CNAME .
+*.adolf.live CNAME .
 amazonglobal.live CNAME .
 *.amazonglobal.live CNAME .
 asphaltgoldde.live CNAME .
@@ -26612,6 +26780,8 @@ degussa.one CNAME .
 *.24-pharm.online CNAME .
 anhaengers.online CNAME .
 *.anhaengers.online CNAME .
+araujopecas.online CNAME .
+*.araujopecas.online CNAME .
 best-apotheke.online CNAME .
 *.best-apotheke.online CNAME .
 bextradefx.online CNAME .
@@ -26926,6 +27096,10 @@ yuanpaygroup.org CNAME .
 *.yuanpaygroup.org CNAME .
 luxurypillows.pk CNAME .
 *.luxurypillows.pk CNAME .
+anaboliczni.pl CNAME .
+*.anaboliczni.pl CNAME .
+aybl.pl CNAME .
+*.aybl.pl CNAME .
 baseballoutlet.pl CNAME .
 *.baseballoutlet.pl CNAME .
 butyveja.pl CNAME .
@@ -27132,10 +27306,14 @@ bemax.shop CNAME .
 *.bemax.shop CNAME .
 berglust.shop CNAME .
 *.berglust.shop CNAME .
+berlinermode.shop CNAME .
+*.berlinermode.shop CNAME .
 beuchat-eu.shop CNAME .
 *.beuchat-eu.shop CNAME .
 bgtcchem.shop CNAME .
 *.bgtcchem.shop CNAME .
+birken-stockde.shop CNAME .
+*.birken-stockde.shop CNAME .
 birkenstock-berlin.shop CNAME .
 *.birkenstock-berlin.shop CNAME .
 birkenstock-laufschuhe.shop CNAME .
@@ -27922,6 +28100,8 @@ tiagocarlosdultrary.shop CNAME .
 *.tiagocarlosdultrary.shop CNAME .
 tjmrxp.shop CNAME .
 *.tjmrxp.shop CNAME .
+tk-deburncalories.shop CNAME .
+*.tk-deburncalories.shop CNAME .
 tkonline.shop CNAME .
 *.tkonline.shop CNAME .
 topfelite.shop CNAME .
@@ -28114,6 +28294,8 @@ prednisone-buyonline.site CNAME .
 *.prednisone-buyonline.site CNAME .
 rauschde.site CNAME .
 *.rauschde.site CNAME .
+schluesseldienst.valers.site CNAME .
+*.schluesseldienst.valers.site CNAME .
 veddey.site CNAME .
 *.veddey.site CNAME .
 verizon.site CNAME .
@@ -28190,6 +28372,8 @@ linto-store.space CNAME .
 *.linto-store.space CNAME .
 3d-printing.store CNAME .
 *.3d-printing.store CNAME .
+abest.store CNAME .
+*.abest.store CNAME .
 al-nassr.store CNAME .
 *.al-nassr.store CNAME .
 alltoys.store CNAME .
@@ -28200,6 +28384,8 @@ amsterdamout.store CNAME .
 *.amsterdamout.store CNAME .
 annen.store CNAME .
 *.annen.store CNAME .
+anuchka.store CNAME .
+*.anuchka.store CNAME .
 ardenza.store CNAME .
 *.ardenza.store CNAME .
 barrelcraft.store CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 May 2026 07:31 UTC
-# Version: 2026.0508.0731.17
+# Last modified: 09 May 2026 07:29 UTC
+# Version: 2026.0509.0729.20
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2222
+# Number of entries: 2233
 #
 1-aclk.net
 1aurl.io
@@ -233,7 +233,9 @@ static-mobile.cleverpush.com
 seu.cleverreach.com
 10319.seu.cleverreach.com
 105150.seu.cleverreach.com
+10818.seu.cleverreach.com
 14168.seu.cleverreach.com
+14632.seu.cleverreach.com
 15850.seu.cleverreach.com
 16255.seu.cleverreach.com
 17509.seu.cleverreach.com
@@ -338,6 +340,7 @@ seu2.cleverreach.com
 192792.seu2.cleverreach.com
 195426.seu2.cleverreach.com
 196274.seu2.cleverreach.com
+199744.seu2.cleverreach.com
 200787.seu2.cleverreach.com
 206577.seu2.cleverreach.com
 214747.seu2.cleverreach.com
@@ -392,11 +395,14 @@ seu2.cleverreach.com
 294962.seu2.cleverreach.com
 295398.seu2.cleverreach.com
 295939.seu2.cleverreach.com
+299549.seu2.cleverreach.com
+300595.seu2.cleverreach.com
 301449.seu2.cleverreach.com
 304709.seu2.cleverreach.com
 306738.seu2.cleverreach.com
 312066.seu2.cleverreach.com
 313131.seu2.cleverreach.com
+315011.seu2.cleverreach.com
 315021.seu2.cleverreach.com
 316004.seu2.cleverreach.com
 317076.seu2.cleverreach.com
@@ -1197,6 +1203,7 @@ group0.sites.hscoscdn-eu1.net
 143611028.group0.sites.hscoscdn-eu1.net
 143958517.group0.sites.hscoscdn-eu1.net
 144395336.group0.sites.hscoscdn-eu1.net
+144738774.group0.sites.hscoscdn-eu1.net
 144743966.group0.sites.hscoscdn-eu1.net
 145506091.group0.sites.hscoscdn-eu1.net
 145543566.group0.sites.hscoscdn-eu1.net
@@ -1551,6 +1558,7 @@ mkto-ab570128.com
 mkto-ab580004.com
 mkto-ab590004.com
 mkto-ab600004.com
+mkto-ab620024.com
 mkto-ab620045.com
 mkto-ab620126.com
 mkto-ab620130.com
@@ -1592,6 +1600,7 @@ mkto-i0206.com
 mkto-j0126.com
 mkto-lon020055.com
 mkto-lon020062.com
+mkto-lon020336.com
 mkto-lon030291.com
 mkto-lon040102.com
 mkto-lon040152.com
@@ -1605,6 +1614,7 @@ mkto-lon090082.com
 mkto-lon090106.com
 mkto-lon100059.com
 mkto-lon100168.com
+mkto-lon100178.com
 mkto-m0106.com
 mkto-m0111.com
 mkto-mlm10010008.com
@@ -1644,6 +1654,7 @@ mkto-sj150025.com
 mkto-sj160006.com
 mkto-sj160014.com
 mkto-sj170094.com
+mkto-sj170174.com
 mkto-sj180011.com
 mkto-sj190104.com
 mkto-sj190237.com

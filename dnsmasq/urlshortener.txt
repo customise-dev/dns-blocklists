@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 May 2026 17:09 UTC
-# Version: 2026.0508.1709.34
+# Last modified: 09 May 2026 07:47 UTC
+# Version: 2026.0509.0747.28
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9894
+# Number of entries: 9902
 #
 local=/0.gp/
 local=/00m.in/
@@ -289,6 +289,7 @@ local=/4hi.co/
 local=/4insurancejobs.com/
 local=/4ja.ai/
 local=/4l.shop/
+local=/4md.ir/
 local=/4or.de/
 local=/4qt.in/
 local=/4se.sa/
@@ -310,6 +311,7 @@ local=/531566.xyz/
 local=/53eig.ht/
 local=/555.ad/
 local=/5du.pl/
+local=/5ia.ir/
 local=/5il.co/
 local=/5k.lol/
 local=/5m.io/
@@ -576,6 +578,7 @@ local=/agr.my/
 local=/agrd.io/
 local=/agroforestri.id/
 local=/agrolink.me/
+local=/agt.fyi/
 local=/ah.my/
 local=/aholink.com/
 local=/y.ahoo.it/
@@ -727,6 +730,7 @@ local=/analyticslinker.ovh/
 local=/link.anam.ch/
 local=/anbisu.com/
 local=/anch.co/
+local=/anchorurl.cloud/
 local=/ancstry.me/
 local=/and.ee/
 local=/anda.li/
@@ -776,6 +780,7 @@ local=/aporasal.net/
 local=/app.link/
 local=/eventogo.app.br/
 local=/redirect.app.br/
+local=/vstag.app.br/
 local=/appbitly.com/
 local=/appcurt.com/
 local=/kutt.appinn.com/
@@ -856,6 +861,7 @@ local=/ata.ink/
 local=/ateng.me/
 local=/atglinks.com/
 local=/ath-web.com/
+local=/atharori.net/
 local=/athe.re/
 local=/athena168.vip/
 local=/athm.cn/
@@ -978,6 +984,7 @@ local=/bankua.xyz/
 local=/bannercho.com/
 local=/baoyung.com/
 local=/baratun.de/
+local=/opusgrid.barberreels.com/
 local=/barkodi.com/
 local=/barsoocm.com/
 local=/barujago.xyz/
@@ -1062,6 +1069,7 @@ local=/bettercov.org/
 local=/betterlinks.io/
 local=/bettrechies.com/
 local=/bez.link/
+local=/bezlink.com/
 local=/bezt.bio/
 local=/bfol.me/
 local=/bfpne.ws/

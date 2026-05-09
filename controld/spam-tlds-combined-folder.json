@@ -7406,6 +7406,13 @@
       }
     },
     {
+      "PK": "tgtg.ninja",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "thatsup.website",
       "action": {
         "do": 1,
@@ -7696,6 +7703,13 @@
       "PK": "*.tube",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "turbify.biz",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },

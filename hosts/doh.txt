@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 May 2026 17:07 UTC
-# Version: 2026.0508.1707.45
+# Last modified: 09 May 2026 09:35 UTC
+# Version: 2026.0509.0935.53
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3906
+# Number of entries: 3908
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -397,6 +397,7 @@
 0.0.0.0 dns.atsilva.link
 0.0.0.0 atsssgo.xyz
 0.0.0.0 dohtrial.att.net
+0.0.0.0 dns.auapi.fun
 0.0.0.0 auberge78.site
 0.0.0.0 dns.audet.cloud
 0.0.0.0 dns.auffray.org
@@ -437,6 +438,7 @@
 0.0.0.0 httpdns.baidu.com
 0.0.0.0 httpsdns.baidu.com
 0.0.0.0 httpdns.baidubce.com
+0.0.0.0 dns.baishiyuan.cn
 0.0.0.0 adguard.baltes.info
 0.0.0.0 bancuh.com
 0.0.0.0 fr-dns1.bancuh.com

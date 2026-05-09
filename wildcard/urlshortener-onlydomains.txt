@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 May 2026 17:09 UTC
-# Version: 2026.0508.1709.34
+# Last modified: 09 May 2026 07:47 UTC
+# Version: 2026.0509.0747.28
 # Syntax: Domains (without subdomains)
-# Number of entries: 9894
+# Number of entries: 9902
 #
 0.gp
 00m.in
@@ -289,6 +289,7 @@ k.3es.io
 4insurancejobs.com
 4ja.ai
 4l.shop
+4md.ir
 4or.de
 4qt.in
 4se.sa
@@ -310,6 +311,7 @@ k.3es.io
 53eig.ht
 555.ad
 5du.pl
+5ia.ir
 5il.co
 5k.lol
 5m.io
@@ -576,6 +578,7 @@ agr.my
 agrd.io
 agroforestri.id
 agrolink.me
+agt.fyi
 ah.my
 aholink.com
 y.ahoo.it
@@ -727,6 +730,7 @@ analyticslinker.ovh
 link.anam.ch
 anbisu.com
 anch.co
+anchorurl.cloud
 ancstry.me
 and.ee
 anda.li
@@ -776,6 +780,7 @@ aporasal.net
 app.link
 eventogo.app.br
 redirect.app.br
+vstag.app.br
 appbitly.com
 appcurt.com
 kutt.appinn.com
@@ -856,6 +861,7 @@ ata.ink
 ateng.me
 atglinks.com
 ath-web.com
+atharori.net
 athe.re
 athena168.vip
 athm.cn
@@ -978,6 +984,7 @@ bankua.xyz
 bannercho.com
 baoyung.com
 baratun.de
+opusgrid.barberreels.com
 barkodi.com
 barsoocm.com
 barujago.xyz
@@ -1062,6 +1069,7 @@ bettercov.org
 betterlinks.io
 bettrechies.com
 bez.link
+bezlink.com
 bezt.bio
 bfol.me
 bfpne.ws

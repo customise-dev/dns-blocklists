@@ -8541,13 +8541,6 @@
       }
     },
     {
-      "PK": "weblium.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "weblium.site",
       "action": {
         "do": 0,

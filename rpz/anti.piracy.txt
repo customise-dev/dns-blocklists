@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778260200 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778318940 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 May 2026 17:10 UTC
-; Version: 2026.0508.1710.21
+; Last modified: 09 May 2026 09:29 UTC
+; Version: 2026.0509.0929.56
 ; Syntax: RPZ
-; Number of entries: 25022
+; Number of entries: 25064
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -586,6 +586,8 @@ streamingcommunity.band CNAME .
 *.streamingcommunity.band CNAME .
 vegamovies.band CNAME .
 *.vegamovies.band CNAME .
+altadefinizione.bar CNAME .
+*.altadefinizione.bar CNAME .
 crichd.bar CNAME .
 *.crichd.bar CNAME .
 dizipal.bar CNAME .
@@ -2034,6 +2036,8 @@ cyberhitz.2ix.ch CNAME .
 *.cyberhitz.2ix.ch CNAME .
 mytoplist.2ix.ch CNAME .
 *.mytoplist.2ix.ch CNAME .
+annas-archive.ch CNAME .
+*.annas-archive.ch CNAME .
 arenabg.ch CNAME .
 *.arenabg.ch CNAME .
 cinefreak.ch CNAME .
@@ -3072,10 +3076,14 @@ a2zcrack.com CNAME .
 *.a2zcrack.com CNAME .
 a8bt.com CNAME .
 *.a8bt.com CNAME .
+abandon5000.com CNAME .
+*.abandon5000.com CNAME .
 abandonhouse.com CNAME .
 *.abandonhouse.com CNAME .
 abcflixbd.com CNAME .
 *.abcflixbd.com CNAME .
+crazyhack.abclan.com CNAME .
+*.crazyhack.abclan.com CNAME .
 abcmoviesbd.com CNAME .
 *.abcmoviesbd.com CNAME .
 abibd.com CNAME .
@@ -3480,6 +3488,10 @@ audiobooksbee.com CNAME .
 *.audiobooksbee.com CNAME .
 audiobookss.com CNAME .
 *.audiobookss.com CNAME .
+audiop2p.com CNAME .
+*.audiop2p.com CNAME .
+audiozonetorrents.com CNAME .
+*.audiozonetorrents.com CNAME .
 aurastresser.com CNAME .
 *.aurastresser.com CNAME .
 autocadbmjes.com CNAME .
@@ -9192,6 +9204,8 @@ altadefinizionegratis.cyou CNAME .
 *.altadefinizionegratis.cyou CNAME .
 annas-archive.cyou CNAME .
 *.annas-archive.cyou CNAME .
+apunkagames.cyou CNAME .
+*.apunkagames.cyou CNAME .
 cineblog001.cyou CNAME .
 *.cineblog001.cyou CNAME .
 dldokan.cyou CNAME .
@@ -9260,6 +9274,8 @@ streamingcommunityz.dance CNAME .
 *.123movie.date CNAME .
 1tamilblasters.date CNAME .
 *.1tamilblasters.date CNAME .
+altadefinizione.date CNAME .
+*.altadefinizione.date CNAME .
 mycima.date CNAME .
 *.mycima.date CNAME .
 streamingcommunityz.date CNAME .
@@ -10488,6 +10504,8 @@ streamingcommunityz.fund CNAME .
 *.streamingcommunityz.fund CNAME .
 hdmovie2.futbol CNAME .
 *.hdmovie2.futbol CNAME .
+altadefinizione01.fyi CNAME .
+*.altadefinizione01.fyi CNAME .
 egydead.fyi CNAME .
 *.egydead.fyi CNAME .
 filmoflix.fyi CNAME .
@@ -12424,6 +12442,8 @@ skymovieshd.legal CNAME .
 *.skymovieshd.legal CNAME .
 altadefinizione.li CNAME .
 *.altadefinizione.li CNAME .
+annas-archive.li CNAME .
+*.annas-archive.li CNAME .
 ask4movie.li CNAME .
 *.ask4movie.li CNAME .
 audiobookbay.li CNAME .
@@ -13094,6 +13114,8 @@ outlaw.lv CNAME .
 *.outlaw.lv CNAME .
 shadow.lv CNAME .
 *.shadow.lv CNAME .
+altadefinizione.ma CNAME .
+*.altadefinizione.ma CNAME .
 megaupload.ma CNAME .
 *.megaupload.ma CNAME .
 putlocker.ma CNAME .
@@ -13750,6 +13772,8 @@ megakino.moi CNAME .
 *.megakino.moi CNAME .
 123movies.mom CNAME .
 *.123movies.mom CNAME .
+altadefinizionegratis.mom CNAME .
+*.altadefinizionegratis.mom CNAME .
 cineblog01.mom CNAME .
 *.cineblog01.mom CNAME .
 flemmix.mom CNAME .
@@ -14066,6 +14090,8 @@ anime-legion.net CNAME .
 *.anime-legion.net CNAME .
 animeflv.net CNAME .
 *.animeflv.net CNAME .
+animeindex.net CNAME .
+*.animeindex.net CNAME .
 anisource.net CNAME .
 *.anisource.net CNAME .
 ankergames.net CNAME .
@@ -16654,6 +16680,8 @@ streamingcommunityz.ooo CNAME .
 *.4players.org CNAME .
 5play.org CNAME .
 *.5play.org CNAME .
+60-fps.org CNAME .
+*.60-fps.org CNAME .
 64dd.org CNAME .
 *.64dd.org CNAME .
 7tor.org CNAME .
@@ -18864,6 +18892,8 @@ themoviesflix.plus CNAME .
 *.themoviesflix.plus CNAME .
 zona.plus CNAME .
 *.zona.plus CNAME .
+annas-archive.pm CNAME .
+*.annas-archive.pm CNAME .
 tracker.breizh.pm CNAME .
 *.tracker.breizh.pm CNAME .
 dood.pm CNAME .
@@ -18896,6 +18926,8 @@ anidub.pro CNAME .
 *.anidub.pro CNAME .
 aovivo.pro CNAME .
 *.aovivo.pro CNAME .
+atdhe.pro CNAME .
+*.atdhe.pro CNAME .
 bigwarp.pro CNAME .
 *.bigwarp.pro CNAME .
 breezeflash17.pro CNAME .
@@ -19718,6 +19750,8 @@ animeheaven.ru CNAME .
 *.animeheaven.ru CNAME .
 animelayer.ru CNAME .
 *.animelayer.ru CNAME .
+animepahe.ru CNAME .
+*.animepahe.ru CNAME .
 tc.animereactor.ru CNAME .
 *.tc.animereactor.ru CNAME .
 animet.ru CNAME .
@@ -20454,6 +20488,8 @@ aegir.sexy CNAME .
 *.aegir.sexy CNAME .
 streameast.sg CNAME .
 *.streameast.sg CNAME .
+altadefinizione.sh CNAME .
+*.altadefinizione.sh CNAME .
 cineblog01.sh CNAME .
 *.cineblog01.sh CNAME .
 deli.sh CNAME .
@@ -22220,6 +22256,8 @@ zonetelechargement.to CNAME .
 *.zonetelechargement.to CNAME .
 zorox.to CNAME .
 *.zorox.to CNAME .
+altadefinizionegratis.today CNAME .
+*.altadefinizionegratis.today CNAME .
 cineblog001.today CNAME .
 *.cineblog001.today CNAME .
 eurostreaming.today CNAME .
@@ -23720,6 +23758,8 @@ altadefinizionegratis.vip CNAME .
 *.altadefinizionegratis.vip CNAME .
 apkmody.vip CNAME .
 *.apkmody.vip CNAME .
+app-valley.vip CNAME .
+*.app-valley.vip CNAME .
 ashdi.vip CNAME .
 *.ashdi.vip CNAME .
 batmanstream.vip CNAME .
@@ -24524,6 +24564,8 @@ opentracker.8880085.xyz CNAME .
 *.960303.xyz CNAME .
 9993721.xyz CNAME .
 *.9993721.xyz CNAME .
+tracker.aibt.xyz CNAME .
+*.tracker.aibt.xyz CNAME .
 allforbooks.xyz CNAME .
 *.allforbooks.xyz CNAME .
 allsportsflix.xyz CNAME .

@@ -5,10 +5,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 08 May 2026 07:31 UTC
-! Version: 2026.0508.0731.17
+! Last modified: 09 May 2026 07:29 UTC
+! Version: 2026.0509.0729.20
 ! Syntax: AdBlock
-! Number of entries: 1541
+! Number of entries: 1545
 !
 @@||1-aclk.net^
 @@||1aurl.io^
@@ -901,6 +901,7 @@
 @@||mkto-ab580004.com^
 @@||mkto-ab590004.com^
 @@||mkto-ab600004.com^
+@@||mkto-ab620024.com^
 @@||mkto-ab620045.com^
 @@||mkto-ab620126.com^
 @@||mkto-ab620130.com^
@@ -942,6 +943,7 @@
 @@||mkto-j0126.com^
 @@||mkto-lon020055.com^
 @@||mkto-lon020062.com^
+@@||mkto-lon020336.com^
 @@||mkto-lon030291.com^
 @@||mkto-lon040102.com^
 @@||mkto-lon040152.com^
@@ -955,6 +957,7 @@
 @@||mkto-lon090106.com^
 @@||mkto-lon100059.com^
 @@||mkto-lon100168.com^
+@@||mkto-lon100178.com^
 @@||mkto-m0106.com^
 @@||mkto-m0111.com^
 @@||mkto-mlm10010008.com^
@@ -994,6 +997,7 @@
 @@||mkto-sj160006.com^
 @@||mkto-sj160014.com^
 @@||mkto-sj170094.com^
+@@||mkto-sj170174.com^
 @@||mkto-sj180011.com^
 @@||mkto-sj190104.com^
 @@||mkto-sj190237.com^

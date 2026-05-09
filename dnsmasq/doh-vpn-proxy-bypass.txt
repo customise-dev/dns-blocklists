@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 May 2026 17:08 UTC
-# Version: 2026.0508.1708.40
+# Last modified: 09 May 2026 09:36 UTC
+# Version: 2026.0509.0936.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 18261
+# Number of entries: 18277
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -308,9 +308,11 @@ local=/dns.5273.ltd/
 local=/52lqvpn.com/
 local=/vpn.52oupa.com/
 local=/www-vpn.52oupa.com/
+local=/531274e80907f3a26c18dd8aabd4fca776d65870.com/
 local=/53r6z.cn/
 local=/54084db9b94f2fc62e22a2f4bf6cf17e.top/
 local=/adguard2.546413.xyz/
+local=/5537955585be9a774f79ea792941d72404fe69d3.com/
 local=/55780358.xyz/
 local=/bwg.559299366.xyz/
 local=/dc39.559299366.xyz/
@@ -365,6 +367,7 @@ local=/ns.77ll.ru/
 local=/789jiasulinktools.com/
 local=/789vpnapp.com/
 local=/78e281a9.ru/
+local=/idk.7btech.com/
 local=/7f8a85466c4219fa725c511ec0a32b15707710b1.com/
 local=/7gain.com/
 local=/hopethishelps.7geo7.ru/
@@ -463,6 +466,7 @@ local=/dns.abdullahabas.online/
 local=/abepdbohfmm.com/
 local=/dns.abhimankolte.com/
 local=/abluehope.com/
+local=/aboba.pro/
 local=/zkit.above.gay/
 local=/dns.abppro.ru/
 local=/abpvn.org/
@@ -894,6 +898,7 @@ local=/aiyunjiasu.net/
 local=/ajabk.cn/
 local=/ajh.academy/
 local=/ajh.boats/
+local=/ajh.college/
 local=/ajh.quest/
 local=/ajh.wtf/
 local=/ajhmath.org/
@@ -983,6 +988,7 @@ local=/alohabrowser.app/
 local=/alohabrowser.com/
 local=/alohaprofile.com/
 local=/alon93rus.ru/
+local=/alphabr.online/
 local=/alphagame.co/
 local=/dx.alsarica.cl/
 local=/ji.alsarica.cl/
@@ -1112,6 +1118,7 @@ local=/appleicloud.anondns.net/
 local=/anonine.com/
 local=/anonproxy.org/
 local=/anonto.pw/
+local=/anonvpn.io/
 local=/anonwebproxy.com/
 local=/anonymitynetwork.com/
 local=/anonymize.com/
@@ -1320,6 +1327,7 @@ local=/askdasjas.online/
 local=/aslanvpn.com/
 local=/doh.asli.id/
 local=/aspheric-zombies.club/
+local=/assemblymenu.xyz/
 local=/task.major.assholetenants.com/
 local=/astarvpn.com/
 local=/astarvpn.download/
@@ -1369,6 +1377,7 @@ local=/atsssgo.xyz/
 local=/dohtrial.att.net/
 local=/attractoverall.com/
 local=/atvsh.ir/
+local=/dns.auapi.fun/
 local=/auberge78.site/
 local=/dns.audet.cloud/
 local=/dns.auffray.org/
@@ -1602,6 +1611,7 @@ local=/httpsdns.baidu.com/
 local=/httpdns.baidubce.com/
 local=/baikalvpn.ru/
 local=/bailey.today/
+local=/dns.baishiyuan.cn/
 local=/baiyueguanggw.com/
 local=/baiyueguangjc.com/
 local=/baiyueguangss.com/
@@ -1660,7 +1670,11 @@ local=/peninsulaeducation.baselinux.net/
 local=/studyeasy.baselinux.net/
 local=/basildo.beer/
 local=/0.6gpaactivities.bastaff.ru/
+local=/aqua.bastaff.ru/
+local=/agriculture.arts.bastaff.ru/
 local=/galaxy-glint.bastaff.ru/
+local=/leave-school.bastaff.ru/
+local=/smack.bastaff.ru/
 local=/tacobelljobs.bastaff.ru/
 local=/we-hate-school.bastaff.ru/
 local=/home.basthorst.eu/
@@ -1792,6 +1806,7 @@ local=/beibeicloud.shop/
 local=/beibeilink.top/
 local=/beibeiyunssr.com/
 local=/belkavpn.com/
+local=/belldream.xyz/
 local=/bellproxy.com/
 local=/dns.belnet.be/
 local=/belongdesert.com/
@@ -17804,6 +17819,7 @@ local=/adguardhome.yavuztutcu.net/
 local=/yawdg.net/
 local=/yawtt.net/
 local=/yawzz.net/
+local=/yazaebalsyadelatproxy.uk/
 local=/lion.yazilimatolye.com/
 local=/ybmtkbiq.com/
 local=/ybqjaguuii0obex4w.online/
