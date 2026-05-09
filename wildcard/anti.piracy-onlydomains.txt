@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 May 2026 09:29 UTC
-# Version: 2026.0509.0929.56
+# Last modified: 09 May 2026 16:59 UTC
+# Version: 2026.0509.1659.55
 # Syntax: Domains (without subdomains)
-# Number of entries: 12532
+# Number of entries: 12553
 #
 003396815.xyz
 004430.xyz
@@ -419,6 +419,7 @@ open.8a.is
 958jmt7addr.com
 960303.xyz
 9993721.xyz
+9anime.digital
 9anime.ru
 9anime.to
 9anime.website
@@ -1378,6 +1379,7 @@ bgtop.net
 bhalukabroadband.com
 bhlegend.com
 bhpt4vip.com
+bhuiyan-online.com
 biberona.com
 bibliotik.me
 bigbbs.eu
@@ -1397,6 +1399,7 @@ binged.live
 bingee.watch
 bingeguy.com
 bingemachine.com
+bingewatch.to
 binimoynet.com
 binnews.in
 binnewsgroup.com
@@ -1407,6 +1410,7 @@ bintv.net
 binzb.com
 mkvcinemasmovies.bio.link
 moviesmod.bio.link
+bioscopeblog.net
 biotorrents.net
 birds-of-binaries.com
 tracker.birkenwald.de
@@ -1437,8 +1441,10 @@ bithumen.be
 bithumen.ru
 bitlord.com
 bitlorddl.com
+bitmanija.net
 bitme.org
 bitmetv.org
+bitmovie.org
 bitnation.com
 bitnetbd.com
 bitnova.info
@@ -1446,6 +1452,7 @@ bitoogle.com
 bitport.io
 bitru.org
 bitsearch.to
+bitseduce.com
 bitsnoop.com
 bitsources.com
 bitsparadise.info
@@ -1580,6 +1587,7 @@ blue-whitegt.com
 bluebird-hd.org
 tracker.bluefrog.pw
 bluehorizon4.site
+bluemediafile.online
 bluemediafile.site
 bluemediafiles.com
 bluemediafiles.xyz
@@ -1661,6 +1669,7 @@ booter.ninja
 booter.org
 booter.pw
 booter.sx
+booter.vip
 booter.xyz
 bootlegs.su
 bootylounge.org
@@ -1717,6 +1726,7 @@ bstsrs.one
 bt-chat.com
 tracker.bt-hash.com
 bt-revolution.net
+dht.bt251.com
 bt4g.org
 tracker.bt4g.com
 bt4gprx.com
@@ -1726,6 +1736,7 @@ btbbt.cc
 btbot.com
 btbtt.com
 btbtw.com
+tracker.btcake.com
 tainanleba.btchichi.hair
 t.btcland.xyz
 btdb.eu
@@ -1914,6 +1925,7 @@ cb01.life
 cb01.live
 cb01.love
 cb01.marketing
+cb01.me
 cb01.net
 cb01.network
 cb01.news
@@ -1924,6 +1936,7 @@ cb01.pictures
 cb01.racing
 cb01.red
 cb01.review
+cb01.sbs
 cb01.school
 cb01.social
 cb01.solutions
@@ -1959,6 +1972,7 @@ ccmixter.org
 ccracks.com
 cctv.army
 cda-hd.cc
+cdcovers.cc
 cddownloadeasy.org
 cddownloadfree.org
 cdkeysgames.com
@@ -2065,6 +2079,7 @@ cineblog01.biz
 cineblog01.boo
 cineblog01.boutique
 cineblog01.casa
+cineblog01.cfd
 cineblog01.claims
 cineblog01.cloud
 cineblog01.codes
@@ -2080,6 +2095,8 @@ cineblog01.fm
 cineblog01.fun
 cineblog01.in
 cineblog01.info
+cineblog01.ink
+cineblog01.io
 cineblog01.ist
 cineblog01.it
 cineblog01.kaufen
@@ -2091,6 +2108,7 @@ cineblog01.locker
 cineblog01.lol
 cineblog01.love
 cineblog01.luxe
+cineblog01.me
 cineblog01.mom
 cineblog01.net
 cineblog01.ooo
@@ -2099,6 +2117,7 @@ cineblog01.promo
 cineblog01.qpon
 cineblog01.red
 cineblog01.rest
+cineblog01.services
 cineblog01.sh
 cineblog01.skin
 cineblog01.spa
@@ -2201,7 +2220,9 @@ cinewhale.com
 circleftp.net
 circlenetworkbd.net
 city9x.com
+citybit.ro
 citycloudbd.com
+citymovie.org
 citynet.live
 citynetbd.com
 cityplex.net
@@ -7743,7 +7764,6 @@ nullsclashapks.com
 nullsroyale.net
 nullsservers.com
 nunflix.live
-nunflix.org
 nunuju.tv
 nunuyy.cc
 piratestreaming.nuovo.live
@@ -9418,6 +9438,7 @@ softsamba.com
 softsclub.com
 softserialskey.com
 softtorrents.org
+softwanime.com
 softwar.ru
 software-free.net
 softwarebits.net

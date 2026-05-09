@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 May 2026 09:36 UTC
-# Version: 2026.0509.0936.41
+# Last modified: 09 May 2026 16:58 UTC
+# Version: 2026.0509.1658.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 18277
+# Number of entries: 18281
 #
 local=/000000555.xyz/
 local=/ss.0001.xyz/
@@ -2423,6 +2423,7 @@ local=/bravedns.com/
 local=/tor.bravesoftware.com/
 local=/bravetrait.com/
 local=/brazilproxy.com/
+local=/brazilproxy.info/
 local=/breakwall.net/
 local=/dns.brembeck.cloud/
 local=/brenvik.lol/
@@ -2660,6 +2661,7 @@ local=/canlite.org/
 local=/cantfindme.org/
 local=/canuletmeeep.run/
 local=/canvas.mom/
+local=/canvasarts.org/
 local=/dnscrypt-cert.captnemo.in/
 local=/doh.captnemo.in/
 local=/capybaravpn.app/
@@ -2690,6 +2692,7 @@ local=/craft.idea.cassidyd.com/
 local=/lvpqirhbat.castroyasociados.cl/
 local=/casuary.beer/
 local=/s8.amazonaws.com.catbox.co/
+local=/catch.gift/
 local=/catchcurrent.com/
 local=/catchen121299.top/
 local=/catcottage.us/
@@ -3014,6 +3017,7 @@ local=/chkttzrt.com/
 local=/chlaebi.info/
 local=/chnroute.com/
 local=/chocolated.org/
+local=/choices.run/
 local=/chongjin01.icu/
 local=/chonglaicn.icu/
 local=/chonglangmaoclash.com/

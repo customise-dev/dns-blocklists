@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 May 2026 09:36 UTC
-# Version: 2026.0509.0936.41
+# Last modified: 09 May 2026 16:58 UTC
+# Version: 2026.0509.1658.39
 # Syntax: Domains (without subdomains)
-# Number of entries: 18277
+# Number of entries: 18281
 #
 000000555.xyz
 ss.0001.xyz
@@ -2423,6 +2423,7 @@ bravedns.com
 tor.bravesoftware.com
 bravetrait.com
 brazilproxy.com
+brazilproxy.info
 breakwall.net
 dns.brembeck.cloud
 brenvik.lol
@@ -2660,6 +2661,7 @@ canlite.org
 cantfindme.org
 canuletmeeep.run
 canvas.mom
+canvasarts.org
 dnscrypt-cert.captnemo.in
 doh.captnemo.in
 capybaravpn.app
@@ -2690,6 +2692,7 @@ craft.idea.cassidyd.com
 lvpqirhbat.castroyasociados.cl
 casuary.beer
 s8.amazonaws.com.catbox.co
+catch.gift
 catchcurrent.com
 catchen121299.top
 catcottage.us
@@ -3014,6 +3017,7 @@ chkttzrt.com
 chlaebi.info
 chnroute.com
 chocolated.org
+choices.run
 chongjin01.icu
 chonglaicn.icu
 chonglangmaoclash.com

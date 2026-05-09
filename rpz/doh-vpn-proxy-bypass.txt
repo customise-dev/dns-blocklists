@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778319360 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778345880 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 May 2026 09:36 UTC
-; Version: 2026.0509.0936.41
+; Last modified: 09 May 2026 16:58 UTC
+; Version: 2026.0509.1658.39
 ; Syntax: RPZ
-; Number of entries: 36554
+; Number of entries: 36562
 ;
 bebra.ac CNAME .
 *.bebra.ac CNAME .
@@ -19383,6 +19383,8 @@ vanya.gg CNAME .
 *.vanya.gg CNAME .
 vanyavpn.gg CNAME .
 *.vanyavpn.gg CNAME .
+catch.gift CNAME .
+*.catch.gift CNAME .
 bebra.gl CNAME .
 *.bebra.gl CNAME .
 vanyavpn.gl CNAME .
@@ -20451,6 +20453,8 @@ bestvpnprovider.info CNAME .
 *.bestvpnprovider.info CNAME .
 bizfast.info CNAME .
 *.bizfast.info CNAME .
+brazilproxy.info CNAME .
+*.brazilproxy.info CNAME .
 browpay.info CNAME .
 *.browpay.info CNAME .
 edu.bsfa.info CNAME .
@@ -28713,6 +28717,8 @@ canlite.org CNAME .
 *.canlite.org CNAME .
 cantfindme.org CNAME .
 *.cantfindme.org CNAME .
+canvasarts.org CNAME .
+*.canvasarts.org CNAME .
 careersandjobs.org CNAME .
 *.careersandjobs.org CNAME .
 catdns.org CNAME .
@@ -32517,6 +32523,8 @@ chester.run CNAME .
 *.chester.run CNAME .
 chips.run CNAME .
 *.chips.run CNAME .
+choices.run CNAME .
+*.choices.run CNAME .
 clusters.run CNAME .
 *.clusters.run CNAME .
 covering.run CNAME .

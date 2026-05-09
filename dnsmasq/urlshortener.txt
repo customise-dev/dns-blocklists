@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 May 2026 07:47 UTC
-# Version: 2026.0509.0747.28
+# Last modified: 09 May 2026 16:59 UTC
+# Version: 2026.0509.1659.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9902
+# Number of entries: 9909
 #
 local=/0.gp/
 local=/00m.in/
@@ -1163,6 +1163,7 @@ local=/bitli.li/
 local=/bitli.pro/
 local=/bitlink.one/
 local=/bitlnx.com/
+local=/bitly.best/
 local=/bitly.bz/
 local=/bitly.com/
 local=/bitly.cx/
@@ -1267,6 +1268,7 @@ local=/bmai.cc/
 local=/bmr.li/
 local=/bn8.us/
 local=/bnds.in/
+local=/bnetwhk.com/
 local=/bnidigital.com/
 local=/bnishipping.com/
 local=/bnrsol.com/
@@ -1307,6 +1309,7 @@ local=/bose.life/
 local=/boshoki.biz/
 local=/bosi.me/
 local=/boskale.me/
+local=/bosslinks.ai/
 local=/boston25.com/
 local=/bot.fi/
 local=/botemoda.com/
@@ -1382,6 +1385,7 @@ local=/bstnd.in/
 local=/bstnst.com/
 local=/bsu.ac/
 local=/bsy.sh/
+local=/bt.ke/
 local=/bt1207fabu.top/
 local=/btco.link/
 local=/btf.st/
@@ -1422,6 +1426,7 @@ local=/buomto.life/
 local=/buoydeparturediscontent.com/
 local=/burl.me/
 local=/burnurl.com/
+local=/busan.pro/
 local=/buu.lat/
 local=/buybitcoinsworldwide.com/
 local=/checkout.buzzoid.com/
@@ -1508,6 +1513,7 @@ local=/cash4share.com/
 local=/link.cashcard.id/
 local=/cashncut.com/
 local=/cashurl.win/
+local=/casinoaktif.xyz/
 local=/casinurl.io/
 local=/casio.link/
 local=/links.casjoe.com/
@@ -1549,6 +1555,7 @@ local=/cdat.ca/
 local=/cdcp.io/
 local=/cden.co/
 local=/s.cdw.ro/
+local=/cdwus.com/
 local=/ce-ism.org/
 local=/ce0.net/
 local=/cebol.me/

@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778312820 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778345940 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 May 2026 07:47 UTC
-; Version: 2026.0509.0747.28
+; Last modified: 09 May 2026 16:59 UTC
+; Version: 2026.0509.1659.24
 ; Syntax: RPZ
-; Number of entries: 19804
+; Number of entries: 19818
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -141,6 +141,8 @@ beacons.ai CNAME .
 *.beacons.ai CNAME .
 biofy.ai CNAME .
 *.biofy.ai CNAME .
+bosslinks.ai CNAME .
+*.bosslinks.ai CNAME .
 centi.ai CNAME .
 *.centi.ai CNAME .
 clica.ai CNAME .
@@ -975,6 +977,8 @@ radiances.beauty CNAME .
 *.radiances.beauty CNAME .
 hu.berlin CNAME .
 *.hu.berlin CNAME .
+bitly.best CNAME .
+*.bitly.best CNAME .
 fighter234.best CNAME .
 *.fighter234.best CNAME .
 hirummy.best CNAME .
@@ -3649,6 +3653,8 @@ blynkn.com CNAME .
 *.blynkn.com CNAME .
 blyto.com CNAME .
 *.blyto.com CNAME .
+bnetwhk.com CNAME .
+*.bnetwhk.com CNAME .
 bnidigital.com CNAME .
 *.bnidigital.com CNAME .
 bnishipping.com CNAME .
@@ -3785,6 +3791,8 @@ cbshort.com CNAME .
 *.cbshort.com CNAME .
 cczxdc.com CNAME .
 *.cczxdc.com CNAME .
+cdwus.com CNAME .
+*.cdwus.com CNAME .
 ceittp.com CNAME .
 *.ceittp.com CNAME .
 c.centralretail.com CNAME .
@@ -11785,6 +11793,8 @@ xurl.jp CNAME .
 *.xurl.jp CNAME .
 yourl.jp CNAME .
 *.yourl.jp CNAME .
+bt.ke CNAME .
+*.bt.ke CNAME .
 crwdstr.ke CNAME .
 *.crwdstr.ke CNAME .
 cul.ke CNAME .
@@ -16581,6 +16591,8 @@ bitli.pro CNAME .
 *.bitli.pro CNAME .
 bltn.pro CNAME .
 *.bltn.pro CNAME .
+busan.pro CNAME .
+*.busan.pro CNAME .
 byli.pro CNAME .
 *.byli.pro CNAME .
 changelink.pro CNAME .
@@ -19633,6 +19645,8 @@ bolagroup.xyz CNAME .
 *.bolagroup.xyz CNAME .
 bybun.xyz CNAME .
 *.bybun.xyz CNAME .
+casinoaktif.xyz CNAME .
+*.casinoaktif.xyz CNAME .
 ccurl.xyz CNAME .
 *.ccurl.xyz CNAME .
 clicai.xyz CNAME .

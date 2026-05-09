@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 09 May 2026 07:47 UTC
-! Version: 2026.0509.0747.28
+! Last modified: 09 May 2026 16:59 UTC
+! Version: 2026.0509.1659.24
 ! Syntax: AdBlock
-! Number of entries: 9902
+! Number of entries: 9909
 !
 ||0.gp^
 ||00m.in^
@@ -1164,6 +1164,7 @@
 ||bitli.pro^
 ||bitlink.one^
 ||bitlnx.com^
+||bitly.best^
 ||bitly.bz^
 ||bitly.com^
 ||bitly.cx^
@@ -1268,6 +1269,7 @@
 ||bmr.li^
 ||bn8.us^
 ||bnds.in^
+||bnetwhk.com^
 ||bnidigital.com^
 ||bnishipping.com^
 ||bnrsol.com^
@@ -1308,6 +1310,7 @@
 ||boshoki.biz^
 ||bosi.me^
 ||boskale.me^
+||bosslinks.ai^
 ||boston25.com^
 ||bot.fi^
 ||botemoda.com^
@@ -1383,6 +1386,7 @@
 ||bstnst.com^
 ||bsu.ac^
 ||bsy.sh^
+||bt.ke^
 ||bt1207fabu.top^
 ||btco.link^
 ||btf.st^
@@ -1423,6 +1427,7 @@
 ||buoydeparturediscontent.com^
 ||burl.me^
 ||burnurl.com^
+||busan.pro^
 ||buu.lat^
 ||buybitcoinsworldwide.com^
 ||checkout.buzzoid.com^
@@ -1509,6 +1514,7 @@
 ||link.cashcard.id^
 ||cashncut.com^
 ||cashurl.win^
+||casinoaktif.xyz^
 ||casinurl.io^
 ||casio.link^
 ||links.casjoe.com^
@@ -1550,6 +1556,7 @@
 ||cdcp.io^
 ||cden.co^
 ||s.cdw.ro^
+||cdwus.com^
 ||ce-ism.org^
 ||ce0.net^
 ||cebol.me^

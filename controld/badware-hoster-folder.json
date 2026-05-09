@@ -6700,6 +6700,13 @@
       }
     },
     {
+      "PK": "pagedemo.co",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "pages10.com",
       "action": {
         "do": 0,
@@ -7079,6 +7086,13 @@
     },
     {
       "PK": "regruhosting.ru",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "reodev.com",
       "action": {
         "do": 0,
         "status": 1

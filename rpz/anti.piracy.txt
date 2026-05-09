@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA localhost. root.localhost. 1778318940 14400 3600 86400 3600
+@ SOA localhost. root.localhost. 1778345940 14400 3600 86400 3600
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 3600
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 May 2026 09:29 UTC
-; Version: 2026.0509.0929.56
+; Last modified: 09 May 2026 16:59 UTC
+; Version: 2026.0509.1659.55
 ; Syntax: RPZ
-; Number of entries: 25064
+; Number of entries: 25106
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1576,6 +1576,8 @@ cb01.cc CNAME .
 *.cb01.cc CNAME .
 cda-hd.cc CNAME .
 *.cda-hd.cc CNAME .
+cdcovers.cc CNAME .
+*.cdcovers.cc CNAME .
 cinepulse.cc CNAME .
 *.cinepulse.cc CNAME .
 clipconverter.cc CNAME .
@@ -1986,6 +1988,8 @@ altadefinizionegratis.cfd CNAME .
 *.altadefinizionegratis.cfd CNAME .
 cineblog001.cfd CNAME .
 *.cineblog001.cfd CNAME .
+cineblog01.cfd CNAME .
+*.cineblog01.cfd CNAME .
 cinemalux.cfd CNAME .
 *.cinemalux.cfd CNAME .
 dontorrent.cfd CNAME .
@@ -3590,6 +3594,8 @@ bhlegend.com CNAME .
 *.bhlegend.com CNAME .
 bhpt4vip.com CNAME .
 *.bhpt4vip.com CNAME .
+bhuiyan-online.com CNAME .
+*.bhuiyan-online.com CNAME .
 biberona.com CNAME .
 *.biberona.com CNAME .
 bilibt.com CNAME .
@@ -3640,6 +3646,8 @@ bitnetbd.com CNAME .
 *.bitnetbd.com CNAME .
 bitoogle.com CNAME .
 *.bitoogle.com CNAME .
+bitseduce.com CNAME .
+*.bitseduce.com CNAME .
 bitsnoop.com CNAME .
 *.bitsnoop.com CNAME .
 bitsources.com CNAME .
@@ -3880,6 +3888,8 @@ bt-chat.com CNAME .
 *.bt-chat.com CNAME .
 tracker.bt-hash.com CNAME .
 *.tracker.bt-hash.com CNAME .
+dht.bt251.com CNAME .
+*.dht.bt251.com CNAME .
 tracker.bt4g.com CNAME .
 *.tracker.bt4g.com CNAME .
 bt4gprx.com CNAME .
@@ -3894,6 +3904,8 @@ btbtt.com CNAME .
 *.btbtt.com CNAME .
 btbtw.com CNAME .
 *.btbtw.com CNAME .
+tracker.btcake.com CNAME .
+*.tracker.btcake.com CNAME .
 btdig.com CNAME .
 *.btdig.com CNAME .
 btmet.com CNAME .
@@ -7576,6 +7588,8 @@ softsclub.com CNAME .
 *.softsclub.com CNAME .
 softserialskey.com CNAME .
 *.softserialskey.com CNAME .
+softwanime.com CNAME .
+*.softwanime.com CNAME .
 softwarecrackworks.com CNAME .
 *.softwarecrackworks.com CNAME .
 softwarezon.com CNAME .
@@ -9558,6 +9572,8 @@ z-lib.dev CNAME .
 *.z-lib.dev CNAME .
 123moviesfree9.digital CNAME .
 *.123moviesfree9.digital CNAME .
+9anime.digital CNAME .
+*.9anime.digital CNAME .
 dood.digital CNAME .
 *.dood.digital CNAME .
 filmapik.digital CNAME .
@@ -11658,6 +11674,8 @@ cb01uno.ink CNAME .
 *.cb01uno.ink CNAME .
 cineblog001.ink CNAME .
 *.cineblog001.ink CNAME .
+cineblog01.ink CNAME .
+*.cineblog01.ink CNAME .
 dood.ink CNAME .
 *.dood.ink CNAME .
 eurostreaming.ink CNAME .
@@ -11772,6 +11790,8 @@ bandito.byterunner.io CNAME .
 *.bandito.byterunner.io CNAME .
 capcutmod.io CNAME .
 *.capcutmod.io CNAME .
+cineblog01.io CNAME .
+*.cineblog01.io CNAME .
 cinemahdv2.io CNAME .
 *.cinemahdv2.io CNAME .
 clashofmagic.io CNAME .
@@ -13224,8 +13244,12 @@ brokenstones.me CNAME .
 *.brokenstones.me CNAME .
 bvq.me CNAME .
 *.bvq.me CNAME .
+cb01.me CNAME .
+*.cb01.me CNAME .
 chia-anime.me CNAME .
 *.chia-anime.me CNAME .
+cineblog01.me CNAME .
+*.cineblog01.me CNAME .
 coolsanime.me CNAME .
 *.coolsanime.me CNAME .
 courseclub.me CNAME .
@@ -14204,6 +14228,8 @@ binodonmela.net CNAME .
 *.binodonmela.net CNAME .
 bintv.net CNAME .
 *.bintv.net CNAME .
+bioscopeblog.net CNAME .
+*.bioscopeblog.net CNAME .
 biotorrents.net CNAME .
 *.biotorrents.net CNAME .
 bitcine.net CNAME .
@@ -14212,6 +14238,8 @@ tracker.bitcomet.net CNAME .
 *.tracker.bitcomet.net CNAME .
 bitestreams.net CNAME .
 *.bitestreams.net CNAME .
+bitmanija.net CNAME .
+*.bitmanija.net CNAME .
 bitspyder.net CNAME .
 *.bitspyder.net CNAME .
 bitturk.net CNAME .
@@ -16400,6 +16428,8 @@ batmanstream.online CNAME .
 *.batmanstream.online CNAME .
 tracker.belmult.online CNAME .
 *.tracker.belmult.online CNAME .
+bluemediafile.online CNAME .
+*.bluemediafile.online CNAME .
 btsow.online CNAME .
 *.btsow.online CNAME .
 calcio-streaming.online CNAME .
@@ -16830,6 +16860,8 @@ bitme.org CNAME .
 *.bitme.org CNAME .
 bitmetv.org CNAME .
 *.bitmetv.org CNAME .
+bitmovie.org CNAME .
+*.bitmovie.org CNAME .
 bitru.org CNAME .
 *.bitru.org CNAME .
 tracker.bittalk.org CNAME .
@@ -16930,6 +16962,8 @@ cinemageddon.org CNAME .
 *.cinemageddon.org CNAME .
 cinepulse.org CNAME .
 *.cinepulse.org CNAME .
+citymovie.org CNAME .
+*.citymovie.org CNAME .
 cksub.org CNAME .
 *.cksub.org CNAME .
 climatebites.org CNAME .
@@ -17760,8 +17794,6 @@ nsw2u.org CNAME .
 *.nsw2u.org CNAME .
 nulledwarez.org CNAME .
 *.nulledwarez.org CNAME .
-nunflix.org CNAME .
-*.nunflix.org CNAME .
 nfo.nydus.org CNAME .
 *.nfo.nydus.org CNAME .
 top.nydus.org CNAME .
@@ -19558,6 +19590,8 @@ blackrevolution.ro CNAME .
 *.blackrevolution.ro CNAME .
 blackz.ro CNAME .
 *.blackz.ro CNAME .
+citybit.ro CNAME .
+*.citybit.ro CNAME .
 nosteam.com.ro CNAME .
 *.nosteam.com.ro CNAME .
 torrents.czteam.ro CNAME .
@@ -20312,6 +20346,8 @@ altadefinizionez.sbs CNAME .
 *.altadefinizionez.sbs CNAME .
 buchkammer.sbs CNAME .
 *.buchkammer.sbs CNAME .
+cb01.sbs CNAME .
+*.cb01.sbs CNAME .
 cineblog001.sbs CNAME .
 *.cineblog001.sbs CNAME .
 cineby.sbs CNAME .
@@ -20476,6 +20512,8 @@ zamunda.se CNAME .
 *.zamunda.se CNAME .
 bollyflix.services CNAME .
 *.bollyflix.services CNAME .
+cineblog01.services CNAME .
+*.cineblog01.services CNAME .
 tracker.darkness.services CNAME .
 *.tracker.darkness.services CNAME .
 filmapik.services CNAME .
@@ -21682,6 +21720,8 @@ azm.to CNAME .
 *.azm.to CNAME .
 bflix.to CNAME .
 *.bflix.to CNAME .
+bingewatch.to CNAME .
+*.bingewatch.to CNAME .
 bitsearch.to CNAME .
 *.bitsearch.to CNAME .
 alt.bitworld.to CNAME .
@@ -23764,6 +23804,8 @@ ashdi.vip CNAME .
 *.ashdi.vip CNAME .
 batmanstream.vip CNAME .
 *.batmanstream.vip CNAME .
+booter.vip CNAME .
+*.booter.vip CNAME .
 cb01.vip CNAME .
 *.cb01.vip CNAME .
 cineblog001.vip CNAME .
